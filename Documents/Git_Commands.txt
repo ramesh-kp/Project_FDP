@@ -13,11 +13,11 @@ git commit -m "First Commit"
 git status
     Check whether there is any stages remaining.
 
-git remote add main https://github.com/ramesh-kp/Courses.git
+git remote add main https://github.com/ramesh-kp/Project_FDP.git
     Sets the remote repository
 
-git push main mster
+git push main master
     The local repository will be pushed to the remote repository.
 
-git pull https://github.com/ramesh-kp/Courses.git
+git pull https://github.com/ramesh-kp/Project_FDP.git
     The code from the remote repository is pulled to the local repository
