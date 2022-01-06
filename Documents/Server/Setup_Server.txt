@@ -1,0 +1,116 @@
+1.	Install python 3.6.8
+	1.	lzma should be installed before python installation
+		1.	sudo apt-get install liblzma-dev
+		2.	sudo apt-get install lzma
+	2.	sudo apt-get update
+	3.	sudo apt-get upgrade
+	4.	Install build essentials
+		1.	sudo apt-get install -y make build-essential libssl-dev zlib1g-dev \
+				libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm \
+				libncurses5-dev libncursesw5-dev xz-utils tk-dev
+	5.	sudo wget https://www.python.org/ftp/python/3.6.8/Python-3.6.8.tgz	////Download link python 3.6.8
+	6.	sudo tar xvf Python-3.6.8.tgz	////Unzip tar file
+	7.	cd Python-3.6.8
+	8.	sudo ./configure --enable-optimizations
+	9.	sudo ./configure --enable-optimizations --with-ensurepip=install
+	10.	sudo make
+	11.	sudo make altinstall
+	
+Django API hosting using Apache and Ubuntu
+1.	In the linux server we need a non-root user with sudo privileges configured
+2.	Install python3.6.8
+3.	Run the following commands in the terminal 
+	1.	sudo apt-get update 
+	2.	sudo apt-get install python3-pip apache2 libapache2-mod-wsgi-py3
+	3.	sudo apt-get install libpq-dev
+4.	Create a folder in /home/visage/facedetection
+5.	Delete existing env folder
+6.	Create virtual environment in the folder
+	1.	sudo python3.6 -m venv env
+7.	Set read write permission for the folder
+	1.	sudo chmod -R 777 env
+8.	Activate environment
+	1.	source env/bin/activate
+9.	Install all requirement files
+	1.	pip install -r requirements.txt
+
+MQTT Installation
+1.	Link for the installation. Follow the link 
+	https://medium.com/@eranda/setting-up-authentication-on-mosquitto-mqtt-broker-de5df2e29afc
+	https://www.youtube.com/watch?v=IenXQvOcj54
+	
+	1.	sudo mosquitto_passwd -c /etc/mosquitto/passwd 'user'
+	2.	sudo nano /etc/mosquitto/mosquitto.conf
+	3.	Add folowwing two entries in thw file
+		1.	password_file /etc/mosquitto/passwd
+		2.	allow_anonymous false
+	4.	mosquitto -c /etc/mosquitto/mosquitto.conf
+	
+	5.	Command to start mosquitto connection
+		sudo service mosquitto start
+	6.	Command to stop mosquitto connection
+		sudo service mosquitto stop
+		
+10.	Please give full permission for the document root(face_detection_dev or face_detection_qa) using the 
+	following command
+	1.	sudo chmod -R 777 directory_name
+11.	Now configure the Apache. To configure the WSGI pass, we’ll need to edit the default virtual host 
+	file. Using any editor open the configuration file.
+	1.	sudo nano /etc/apache2/sites-available/000-default.conf
+12.	We can keep the directives that are already present in the file. We just need to add some additional 
+	items.
+13.	Add the following in the configuration file. The path used should be the actual path here. That is 
+	/home/sammy should be replaced with the proper values. Replace all the path specified in the 
+	configuration with actual path. Please refer the virtual host created for dev environment
+	
+	<VirtualHost *:80>
+		. . .
+		<Directory /home/sammy/face_detection/face_detection>
+			<Files wsgi.py>
+				Require all granted
+			</Files>
+		</Directory>
+
+		WSGIDaemonProcess face_detection python-home=/home/sammy/face_detection/facedetectionenv 
+									 python-path=/home/sammy/face_detection
+		WSGIProcessGroup face_detection
+		WSGIScriptAlias / /home/sammy/face_detection/face_detection/wsgi.py
+
+	</VirtualHost>
+
+	Please visit the following link for reference
+	https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-apache-and-mod_wsgi-on-ubuntu-16-04
+14.	Add the required ports in /etc/apache2/ports.conf which is used in the virtual host.
+15.	Save and close the file and restart the apache server using the following command
+	1.	sudo systemctl restart apache2
+16.	sudo apache2ctl configtest to test any syntax error in virtual host configuration
+	
+	Reference:-
+	http://blog.dscpl.com.au/2012/10/requests-running-in-wrong-django.html
+	
+Problem and Solutions
+1.	Truncated or oversized response headers received from daemon process 'facedetection_live': /home/visage/visage/facedetection/facedetection_live/face_detection/face_detection/wsgi.py,
+Sol.	https://serverfault.com/questions/844761/wsgi-truncated-or-oversized-response-headers-received-from-daemon-process
+		Add the below line to your /etc/apache2/apache2.conf.
+		WSGIApplicationGroup %{GLOBAL}
+		
+2.	AttributeError: module 'tensorflow.python.training.experimental.mixed_precision' has no attribute '_register_wrapper_optimizer_cls'
+Sol.	https://stackoverflow.com/questions/66178738/attributeerror-module-tensorflow-python-training-experimental-mixed-precision
+		Uninstall and install keras.
+
+3.	Job for apache2.service failed because the control process exited with error code.
+	See "systemctl status apache2.service" and "journalctl -xe" for details.
+Sol.	https://askubuntu.com/questions/25374/how-do-you-install-mod-wsgi
+		Step 1: The following command will install wgsi module
+			sudo apt-get install libapache2-mod-wsgi
+		Step 2: To enable the wsgi module run the following command
+			sudo a2enmod wsgi
+		Step 3: Restart your apache server by running
+			sudo systemctl restart apache2
+			
+4.	ImportError: No module named django.core.wsgi
+Sol.	https://stackoverflow.com/questions/6454564/target-wsgi-script-cannot-be-loaded-as-python-module/28118284#28118284
+		sudo apt-get remove libapache2-mod-python libapache2-mod-wsgi
+		sudo apt-get install libapache2-mod-wsgi-py3
+		
+

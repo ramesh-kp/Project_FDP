@@ -1,0 +1,8 @@
+Device LED Indications - Fine tuning
+
+Relay Timer Analysis
+	Time = 5 Seconds
+	Relay is on when the RFID Card access or Fingerprint ID access is given.
+	Relay is off after 5 seconds.
+	The ticket is to check the condition when relay is on and when another RFID Card 
+	access or Fingerprint ID access is given what will happen.  

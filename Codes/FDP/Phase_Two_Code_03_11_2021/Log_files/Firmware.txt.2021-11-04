@@ -1,0 +1,7 @@
+2021-11-05 11:53:46,460 — Main application — ERROR — Ran out of input
+Traceback (most recent call last):
+  File "main_app.py", line 92, in <module>
+    if(RFID_flag.Fingerprint_flag_read() == 0):
+  File "/home/pi/Desktop/Phase_Two_Code_03_11_2021/Firmware/Flag/RFID_flag.py", line 88, in Fingerprint_flag_read
+    dct = pickle.load(file)
+EOFError: Ran out of input

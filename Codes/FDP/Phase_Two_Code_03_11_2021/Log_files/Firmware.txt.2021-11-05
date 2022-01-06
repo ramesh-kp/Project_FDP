@@ -1,0 +1,655 @@
+2021-11-05 12:04:44,958 — RFID Activation — INFO — waiting for RFID to scan
+2021-11-05 12:04:48,481 — RFID Activation — INFO — 207655178
+2021-11-05 12:04:48,482 — RFID Activation — INFO — RFID Scanned Sucessfully
+2021-11-05 12:04:48,674 — RFID Activation — INFO — RFID Response API triggered
+2021-11-05 12:04:48,983 — RFID Activation — INFO — {"ActivationStatus":"3","ActivationMessage":"Success","RFIDCode":"207655178","Employee":30}
+2021-11-05 12:05:58,275 — MQTT — INFO — Setting up connection
+2021-11-05 12:05:58,275 — MQTT — INFO — Setting up connection
+2021-11-05 12:05:58,298 — MQTT — INFO — Device Connection Established
+2021-11-05 12:05:58,298 — MQTT — INFO — Device Connection Established
+2021-11-05 12:05:58,561 — HeartBeat — INFO — 200
+2021-11-05 12:05:58,562 — HeartBeat — INFO — Heartbeat success
+2021-11-05 12:08:06,982 — Main application — INFO — 207655178
+2021-11-05 12:08:06,984 — RFID Access — INFO — Employeeid
+2021-11-05 12:08:06,984 — RFID Access — INFO — 30
+2021-11-05 12:08:06,985 — RFID Access — INFO — Status_Employee
+2021-11-05 12:08:06,985 — RFID Access — INFO — 1
+2021-11-05 12:08:06,986 — RFID Access — INFO — Nisha
+2021-11-05 12:08:07,034 — RFID Access — INFO — 2021-11-05 12:08:07.034374+05:30
+2021-11-05 12:08:07,034 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:08:07,047 — Attendance — INFO — Attendance synchronization API triggered
+2021-11-05 12:08:07,050 — Attendance — INFO — {'DeviceCode': 'FDP7424', 'EmployeeId': 30, 'PunchTime': datetime.datetime(2021, 11, 5, 12, 8, 7, 34374, tzinfo=<DstTzInfo 'Asia/Kolkata' IST+5:30:00 STD>), 'PunchType': 1, 'AttendanceStatus': 0}
+2021-11-05 12:08:07,280 — Attendance — INFO — {"Message":"Success"}
+2021-11-05 12:08:07,293 — Attendance — INFO — Sucess
+2021-11-05 12:08:09,546 — Main application — INFO — 207655178
+2021-11-05 12:08:09,549 — RFID Access — INFO — Employeeid
+2021-11-05 12:08:09,549 — RFID Access — INFO — 30
+2021-11-05 12:08:09,550 — RFID Access — INFO — Status_Employee
+2021-11-05 12:08:09,551 — RFID Access — INFO — 1
+2021-11-05 12:08:09,552 — RFID Access — INFO — Nisha
+2021-11-05 12:08:09,554 — RFID Access — INFO — 2021-11-05 12:08:09.554450+05:30
+2021-11-05 12:08:09,556 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:08:09,576 — Attendance — INFO — Attendance synchronization API triggered
+2021-11-05 12:08:09,578 — Attendance — INFO — {'DeviceCode': 'FDP7424', 'EmployeeId': 30, 'PunchTime': datetime.datetime(2021, 11, 5, 12, 8, 9, 554450, tzinfo=<DstTzInfo 'Asia/Kolkata' IST+5:30:00 STD>), 'PunchType': 1, 'AttendanceStatus': 0}
+2021-11-05 12:08:09,966 — Attendance — INFO — {"Message":"Success"}
+2021-11-05 12:08:09,981 — Attendance — INFO — Sucess
+2021-11-05 12:08:12,036 — Relay — INFO — Door closed 
+2021-11-05 12:08:14,294 — RFID Access — INFO — 207655178
+2021-11-05 12:08:14,298 — RFID Access — INFO — Employeeid
+2021-11-05 12:08:14,299 — RFID Access — INFO — 30
+2021-11-05 12:08:14,300 — RFID Access — INFO — Status_Employee
+2021-11-05 12:08:14,301 — RFID Access — INFO — 1
+2021-11-05 12:08:14,303 — RFID Access — INFO — Nisha
+2021-11-05 12:08:14,305 — RFID Access — INFO — 2021-11-05 12:08:14.305204+05:30
+2021-11-05 12:08:14,306 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:08:14,333 — Attendance — INFO — Attendance synchronization API triggered
+2021-11-05 12:08:14,336 — Attendance — INFO — {'DeviceCode': 'FDP7424', 'EmployeeId': 30, 'PunchTime': datetime.datetime(2021, 11, 5, 12, 8, 14, 305204, tzinfo=<DstTzInfo 'Asia/Kolkata' IST+5:30:00 STD>), 'PunchType': 1, 'AttendanceStatus': 1}
+2021-11-05 12:08:14,561 — Relay — INFO — Door closed 
+2021-11-05 12:08:14,653 — Attendance — INFO — {"Message":"Success"}
+2021-11-05 12:08:14,669 — Attendance — INFO — Sucess
+2021-11-05 12:08:19,307 — Relay — INFO — Door closed 
+2021-11-05 12:08:57,972 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:08:57,973 — MQTT — INFO — aparna
+2021-11-05 12:08:57,973 — MQTT — INFO — aparna
+2021-11-05 12:08:57,974 — MQTT — INFO — 0
+2021-11-05 12:08:57,974 — MQTT — INFO — 0
+2021-11-05 12:09:02,973 — Relay — INFO — Door closed 
+2021-11-05 12:09:06,142 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:09:06,143 — MQTT — INFO — nisha
+2021-11-05 12:09:06,143 — MQTT — INFO — nisha
+2021-11-05 12:09:06,147 — MQTT — INFO — 0
+2021-11-05 12:09:06,147 — MQTT — INFO — 0
+2021-11-05 12:09:11,143 — Relay — INFO — Door closed 
+2021-11-05 12:09:18,553 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:09:18,554 — MQTT — INFO — nisha
+2021-11-05 12:09:18,554 — MQTT — INFO — nisha
+2021-11-05 12:09:18,554 — MQTT — INFO — 1
+2021-11-05 12:09:18,554 — MQTT — INFO — 1
+2021-11-05 12:09:23,554 — Relay — INFO — Door closed 
+2021-11-05 12:09:39,212 — FingerprintActivation — INFO — Waiting for finger..
+2021-11-05 12:09:46,112 — FingerprintActivation — INFO — {"ActivationStatus":"1","ActivationMessage":"In Progress","EmployeeId":30}
+2021-11-05 12:09:46,113 — FingerprintActivation — INFO — Remove finger...
+2021-11-05 12:09:47,114 — FingerprintActivation — INFO — Waiting for same finger again...
+2021-11-05 12:09:47,911 — FingerprintActivation — ERROR — Fingers do not match
+2021-11-05 12:09:48,037 — FingerprintActivation — INFO — {"Message":"Aborted"}
+2021-11-05 12:09:49,120 — FingerprintActivation — INFO — Invalid fingerprint
+2021-11-05 12:09:52,146 — FingerprintActivation — INFO — Invalid fingerprint
+2021-11-05 12:10:01,227 — FingerprintActivation — INFO — Waiting for finger..
+2021-11-05 12:10:07,764 — FingerprintActivation — INFO — {"ActivationStatus":"1","ActivationMessage":"In Progress","EmployeeId":30}
+2021-11-05 12:10:07,765 — FingerprintActivation — INFO — Remove finger...
+2021-11-05 12:10:08,766 — FingerprintActivation — INFO — Waiting for same finger again...
+2021-11-05 12:10:09,709 — FingerprintActivation — ERROR — Fingers do not match
+2021-11-05 12:10:09,936 — FingerprintActivation — INFO — {"Message":"Aborted"}
+2021-11-05 12:10:10,940 — FingerprintActivation — INFO — Invalid fingerprint
+2021-11-05 12:10:13,031 — FingerprintActivation — INFO — Invalid fingerprint
+2021-11-05 12:10:32,460 — FingerprintActivation — INFO — Waiting for finger..
+2021-11-05 12:10:35,497 — FingerprintActivation — INFO — {"ActivationStatus":"1","ActivationMessage":"In Progress","EmployeeId":30}
+2021-11-05 12:10:35,498 — FingerprintActivation — INFO — Remove finger...
+2021-11-05 12:10:36,500 — FingerprintActivation — INFO — Waiting for same finger again...
+2021-11-05 12:10:38,335 — FingerprintActivation — ERROR — Fingers do not match
+2021-11-05 12:10:38,493 — FingerprintActivation — INFO — {"Message":"Aborted"}
+2021-11-05 12:11:00,619 — FingerprintActivation — INFO — Waiting for finger..
+2021-11-05 12:11:05,086 — FingerprintActivation — INFO — {"ActivationStatus":"1","ActivationMessage":"In Progress","EmployeeId":30}
+2021-11-05 12:11:05,087 — FingerprintActivation — INFO — Remove finger...
+2021-11-05 12:11:06,089 — FingerprintActivation — INFO — Waiting for same finger again...
+2021-11-05 12:11:06,957 — FingerprintActivation — ERROR — Fingers do not match
+2021-11-05 12:11:07,323 — FingerprintActivation — INFO — {"Message":"Aborted"}
+2021-11-05 12:11:08,279 — FingerprintActivation — INFO — Invalid fingerprint
+2021-11-05 12:11:10,277 — FingerprintActivation — INFO — Invalid fingerprint
+2021-11-05 12:11:24,209 — FingerprintActivation — INFO — Waiting for finger..
+2021-11-05 12:11:25,784 — FingerprintActivation — INFO — {"ActivationStatus":"1","ActivationMessage":"In Progress","EmployeeId":30}
+2021-11-05 12:11:25,785 — FingerprintActivation — INFO — Remove finger...
+2021-11-05 12:11:26,787 — FingerprintActivation — INFO — Waiting for same finger again...
+2021-11-05 12:11:28,216 — FingerprintActivation — INFO — {"ActivationStatus":"1","ActivationMessage":"In Progress","EmployeeId":30}
+2021-11-05 12:11:28,345 — FingerprintActivation — INFO — Remove finger...
+2021-11-05 12:11:29,347 — FingerprintActivation — INFO — Waiting for same finger again...
+2021-11-05 12:11:30,775 — FingerprintActivation — INFO — {"ActivationStatus":"1","ActivationMessage":"In Progress","EmployeeId":30}
+2021-11-05 12:11:30,776 — FingerprintActivation — INFO — Remove finger...
+2021-11-05 12:11:31,777 — FingerprintActivation — INFO — Waiting for same finger again...
+2021-11-05 12:11:32,748 — FingerprintActivation — INFO — [3, 1, 100, 18, 0, 0, 255, 30, 248, 6, 240, 6, 224, 6, 192, 2, 128, 2, 128, 2, 128, 0, 128, 0, 128, 0, 128, 0, 128, 0, 128, 0, 128, 0, 192, 0, 192, 0, 192, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 74, 6, 155, 126, 92, 11, 171, 30, 70, 143, 194, 158, 103, 20, 150, 158, 97, 158, 44, 222, 76, 34, 1, 222, 101, 164, 151, 126, 27, 53, 92, 126, 107, 53, 108, 158, 54, 154, 3, 95, 44, 43, 196, 159, 83, 176, 192, 255, 46, 138, 133, 156, 44, 14, 93, 220, 108, 154, 108, 124, 111, 29, 214, 60, 87, 17, 216, 157, 83, 142, 193, 122, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 99, 21, 0, 0, 241, 254, 192, 6, 192, 6, 192, 2, 128, 0, 128, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 128, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 98, 158, 44, 30, 101, 164, 87, 30, 109, 53, 108, 222, 30, 54, 91, 222, 19, 187, 196, 94, 89, 10, 171, 127, 70, 14, 130, 255, 26, 18, 222, 183, 54, 154, 67, 63, 74, 32, 66, 63, 46, 173, 4, 127, 85, 49, 0, 255, 49, 137, 6, 189, 86, 17, 216, 253, 44, 142, 33, 210, 83, 142, 129, 90, 109, 154, 170, 26, 112, 156, 149, 219, 105, 145, 42, 216, 44, 139, 8, 243, 105, 19, 22, 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2021-11-05 12:11:33,167 — FingerprintFunction — INFO — (0,)
+2021-11-05 12:11:33,168 — FingerprintFunction — INFO — empid
+2021-11-05 12:11:33,169 — FingerprintFunction — INFO — (1,)
+2021-11-05 12:11:35,959 — FingerprintFunction — INFO — 9
+2021-11-05 12:11:35,959 — FingerprintFunction — INFO — 9
+2021-11-05 12:11:36,370 — FingerprintActivation — INFO — {"ActivationStatus":"3","ActivationMessage":"Success","Employee":30}
+2021-11-05 12:11:45,330 — FingerprintActivation — INFO — Valid finger identified at position number9
+2021-11-05 12:11:46,150 — FingerprintActivation — INFO — Nisha
+2021-11-05 12:11:46,151 — FingerprintActivation — INFO — 30
+2021-11-05 12:11:46,152 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:11:46,175 — Attendance — INFO — Attendance synchronization API triggered
+2021-11-05 12:11:46,177 — Attendance — INFO — {'DeviceCode': 'FDP7424', 'EmployeeId': 30, 'PunchTime': datetime.datetime(2021, 11, 5, 12, 11, 46, 152498, tzinfo=<DstTzInfo 'Asia/Kolkata' IST+5:30:00 STD>), 'PunchType': 2, 'AttendanceStatus': 1}
+2021-11-05 12:11:46,364 — Attendance — INFO — {"Message":"Success"}
+2021-11-05 12:11:46,377 — Attendance — INFO — Sucess
+2021-11-05 12:11:51,154 — Relay — INFO — Door closed 
+2021-11-05 12:11:58,299 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:11:58,300 — MQTT — INFO — nisha
+2021-11-05 12:11:58,300 — MQTT — INFO — nisha
+2021-11-05 12:11:58,301 — MQTT — INFO — 0
+2021-11-05 12:11:58,301 — MQTT — INFO — 0
+2021-11-05 12:12:00,630 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:12:00,631 — MQTT — INFO — nisha
+2021-11-05 12:12:00,631 — MQTT — INFO — nisha
+2021-11-05 12:12:00,632 — MQTT — INFO — 0
+2021-11-05 12:12:00,632 — MQTT — INFO — 0
+2021-11-05 12:12:03,102 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:12:03,103 — MQTT — INFO — nisha
+2021-11-05 12:12:03,103 — MQTT — INFO — nisha
+2021-11-05 12:12:03,104 — MQTT — INFO — 0
+2021-11-05 12:12:03,104 — MQTT — INFO — 0
+2021-11-05 12:12:03,301 — Relay — INFO — Door closed 
+2021-11-05 12:12:05,632 — Relay — INFO — Door closed 
+2021-11-05 12:12:05,744 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:12:05,745 — MQTT — INFO — nisha
+2021-11-05 12:12:05,745 — MQTT — INFO — nisha
+2021-11-05 12:12:05,746 — MQTT — INFO — 0
+2021-11-05 12:12:05,746 — MQTT — INFO — 0
+2021-11-05 12:12:08,105 — Relay — INFO — Door closed 
+2021-11-05 12:12:10,746 — Relay — INFO — Door closed 
+2021-11-05 12:12:38,804 — HeartBeat — INFO — 200
+2021-11-05 12:12:38,805 — HeartBeat — INFO — Heartbeat success
+2021-11-05 12:13:42,711 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:13:42,712 — MQTT — INFO — nidal
+2021-11-05 12:13:42,712 — MQTT — INFO — nidal
+2021-11-05 12:13:42,712 — MQTT — INFO — 0
+2021-11-05 12:13:42,712 — MQTT — INFO — 0
+2021-11-05 12:13:44,548 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:13:44,550 — MQTT — INFO — arief
+2021-11-05 12:13:44,550 — MQTT — INFO — arief
+2021-11-05 12:13:44,551 — MQTT — INFO — 0
+2021-11-05 12:13:44,551 — MQTT — INFO — 0
+2021-11-05 12:13:47,712 — Relay — INFO — Door closed 
+2021-11-05 12:13:49,550 — Relay — INFO — Door closed 
+2021-11-05 12:19:19,436 — HeartBeat — INFO — 200
+2021-11-05 12:19:19,437 — HeartBeat — INFO — Heartbeat success
+2021-11-05 12:19:33,163 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:19:33,164 — MQTT — INFO — azhar
+2021-11-05 12:19:33,164 — MQTT — INFO — azhar
+2021-11-05 12:19:33,164 — MQTT — INFO — 0
+2021-11-05 12:19:33,164 — MQTT — INFO — 0
+2021-11-05 12:19:38,164 — Relay — INFO — Door closed 
+2021-11-05 12:20:40,746 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:20:40,747 — MQTT — INFO — ramesh
+2021-11-05 12:20:40,747 — MQTT — INFO — ramesh
+2021-11-05 12:20:40,748 — MQTT — INFO — 1
+2021-11-05 12:20:40,748 — MQTT — INFO — 1
+2021-11-05 12:20:41,250 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:20:41,251 — MQTT — INFO — aparna
+2021-11-05 12:20:41,251 — MQTT — INFO — aparna
+2021-11-05 12:20:41,252 — MQTT — INFO — 1
+2021-11-05 12:20:41,252 — MQTT — INFO — 1
+2021-11-05 12:20:45,747 — Relay — INFO — Door closed 
+2021-11-05 12:20:46,252 — Relay — INFO — Door closed 
+2021-11-05 12:22:31,853 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:22:31,853 — MQTT — INFO — aparna
+2021-11-05 12:22:31,853 — MQTT — INFO — aparna
+2021-11-05 12:22:31,854 — MQTT — INFO — 0
+2021-11-05 12:22:31,854 — MQTT — INFO — 0
+2021-11-05 12:22:31,893 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:22:31,895 — MQTT — INFO — ramesh
+2021-11-05 12:22:31,895 — MQTT — INFO — ramesh
+2021-11-05 12:22:31,895 — MQTT — INFO — 0
+2021-11-05 12:22:31,895 — MQTT — INFO — 0
+2021-11-05 12:22:33,455 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:22:33,456 — MQTT — INFO — arief
+2021-11-05 12:22:33,456 — MQTT — INFO — arief
+2021-11-05 12:22:33,458 — MQTT — INFO — 0
+2021-11-05 12:22:33,458 — MQTT — INFO — 0
+2021-11-05 12:22:36,854 — Relay — INFO — Door closed 
+2021-11-05 12:22:36,903 — Relay — INFO — Door closed 
+2021-11-05 12:22:38,457 — Relay — INFO — Door closed 
+2021-11-05 12:25:35,219 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:25:35,219 — MQTT — INFO — ramesh
+2021-11-05 12:25:35,219 — MQTT — INFO — ramesh
+2021-11-05 12:25:35,220 — MQTT — INFO — 1
+2021-11-05 12:25:35,220 — MQTT — INFO — 1
+2021-11-05 12:25:35,537 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:25:35,538 — MQTT — INFO — aparna
+2021-11-05 12:25:35,538 — MQTT — INFO — aparna
+2021-11-05 12:25:35,539 — MQTT — INFO — 1
+2021-11-05 12:25:35,539 — MQTT — INFO — 1
+2021-11-05 12:25:40,220 — Relay — INFO — Door closed 
+2021-11-05 12:25:40,538 — Relay — INFO — Door closed 
+2021-11-05 12:25:59,626 — HeartBeat — INFO — 200
+2021-11-05 12:25:59,627 — HeartBeat — INFO — Heartbeat success
+2021-11-05 12:32:39,977 — HeartBeat — INFO — 200
+2021-11-05 12:32:39,977 — HeartBeat — INFO — Heartbeat success
+2021-11-05 12:35:01,905 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:35:01,905 — MQTT — INFO — aparna
+2021-11-05 12:35:01,905 — MQTT — INFO — aparna
+2021-11-05 12:35:01,906 — MQTT — INFO — 1
+2021-11-05 12:35:01,906 — MQTT — INFO — 1
+2021-11-05 12:35:02,252 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:35:02,254 — MQTT — INFO — ramesh
+2021-11-05 12:35:02,254 — MQTT — INFO — ramesh
+2021-11-05 12:35:02,255 — MQTT — INFO — 1
+2021-11-05 12:35:02,255 — MQTT — INFO — 1
+2021-11-05 12:35:03,241 — Relay — INFO — Relay triggered for door opening
+2021-11-05 12:35:03,249 — MQTT — INFO — aparna
+2021-11-05 12:35:03,249 — MQTT — INFO — aparna
+2021-11-05 12:35:03,250 — MQTT — INFO — 1
+2021-11-05 12:35:03,250 — MQTT — INFO — 1
+2021-11-05 12:35:06,906 — Relay — INFO — Door closed 
+2021-11-05 12:35:07,254 — Relay — INFO — Door closed 
+2021-11-05 12:35:08,249 — Relay — INFO — Door closed 
+2021-11-05 12:38:36,827 — MQTT — INFO — Device Connection Established
+2021-11-05 12:38:36,827 — MQTT — INFO — Device Connection Established
+2021-11-05 12:41:21,767 — HeartBeat — INFO — 502
+2021-11-05 12:41:21,767 — HeartBeat — INFO — Heartbeat Fail
+2021-11-05 12:48:02,003 — HeartBeat — INFO — 200
+2021-11-05 12:48:02,004 — HeartBeat — INFO — Heartbeat success
+2021-11-05 12:54:42,215 — HeartBeat — INFO — 200
+2021-11-05 12:54:42,217 — HeartBeat — INFO — Heartbeat success
+2021-11-05 13:01:22,689 — HeartBeat — INFO — 200
+2021-11-05 13:01:22,690 — HeartBeat — INFO — Heartbeat success
+2021-11-05 13:08:02,967 — HeartBeat — INFO — 200
+2021-11-05 13:08:02,968 — HeartBeat — INFO — Heartbeat success
+2021-11-05 13:14:43,309 — HeartBeat — INFO — 200
+2021-11-05 13:14:43,310 — HeartBeat — INFO — Heartbeat success
+2021-11-05 13:21:23,704 — HeartBeat — INFO — 200
+2021-11-05 13:21:23,705 — HeartBeat — INFO — Heartbeat success
+2021-11-05 13:28:03,972 — HeartBeat — INFO — 200
+2021-11-05 13:28:03,974 — HeartBeat — INFO — Heartbeat success
+2021-11-05 13:29:11,121 — Relay — INFO — Relay triggered for door opening
+2021-11-05 13:29:11,121 — MQTT — INFO — ramesh
+2021-11-05 13:29:11,121 — MQTT — INFO — ramesh
+2021-11-05 13:29:11,122 — MQTT — INFO — 1
+2021-11-05 13:29:11,122 — MQTT — INFO — 1
+2021-11-05 13:29:11,132 — Relay — INFO — Relay triggered for door opening
+2021-11-05 13:29:11,138 — MQTT — INFO — aparna
+2021-11-05 13:29:11,138 — MQTT — INFO — aparna
+2021-11-05 13:29:11,138 — MQTT — INFO — 1
+2021-11-05 13:29:11,138 — MQTT — INFO — 1
+2021-11-05 13:29:16,122 — Relay — INFO — Door closed 
+2021-11-05 13:29:16,136 — Relay — INFO — Door closed 
+2021-11-05 13:29:20,849 — Relay — INFO — Relay triggered for door opening
+2021-11-05 13:29:20,850 — MQTT — INFO — aparna
+2021-11-05 13:29:20,850 — MQTT — INFO — aparna
+2021-11-05 13:29:20,850 — MQTT — INFO — 0
+2021-11-05 13:29:20,850 — MQTT — INFO — 0
+2021-11-05 13:29:20,880 — Relay — INFO — Relay triggered for door opening
+2021-11-05 13:29:20,881 — MQTT — INFO — ramesh
+2021-11-05 13:29:20,881 — MQTT — INFO — ramesh
+2021-11-05 13:29:20,882 — MQTT — INFO — 0
+2021-11-05 13:29:20,882 — MQTT — INFO — 0
+2021-11-05 13:29:25,850 — Relay — INFO — Door closed 
+2021-11-05 13:29:25,891 — Relay — INFO — Door closed 
+2021-11-05 13:34:01,838 — Relay — INFO — Relay triggered for door opening
+2021-11-05 13:34:01,839 — MQTT — INFO — lissy
+2021-11-05 13:34:01,839 — MQTT — INFO — lissy
+2021-11-05 13:34:01,840 — MQTT — INFO — 1
+2021-11-05 13:34:01,840 — MQTT — INFO — 1
+2021-11-05 13:34:06,839 — Relay — INFO — Door closed 
+2021-11-05 13:34:44,264 — HeartBeat — INFO — 200
+2021-11-05 13:34:44,265 — HeartBeat — INFO — Heartbeat success
+2021-11-05 13:41:24,500 — HeartBeat — INFO — 200
+2021-11-05 13:41:24,501 — HeartBeat — INFO — Heartbeat success
+2021-11-05 13:42:01,278 — Relay — INFO — Relay triggered for door opening
+2021-11-05 13:42:01,279 — MQTT — INFO — nidal
+2021-11-05 13:42:01,279 — MQTT — INFO — nidal
+2021-11-05 13:42:01,280 — MQTT — INFO — 0
+2021-11-05 13:42:01,280 — MQTT — INFO — 0
+2021-11-05 13:42:02,310 — Relay — INFO — Relay triggered for door opening
+2021-11-05 13:42:02,314 — MQTT — INFO — arief
+2021-11-05 13:42:02,314 — MQTT — INFO — arief
+2021-11-05 13:42:02,315 — MQTT — INFO — 0
+2021-11-05 13:42:02,315 — MQTT — INFO — 0
+2021-11-05 13:42:04,022 — Relay — INFO — Relay triggered for door opening
+2021-11-05 13:42:04,023 — MQTT — INFO — nidal
+2021-11-05 13:42:04,023 — MQTT — INFO — nidal
+2021-11-05 13:42:04,024 — MQTT — INFO — 0
+2021-11-05 13:42:04,024 — MQTT — INFO — 0
+2021-11-05 13:42:06,280 — Relay — INFO — Door closed 
+2021-11-05 13:42:07,314 — Relay — INFO — Door closed 
+2021-11-05 13:42:09,023 — Relay — INFO — Door closed 
+2021-11-05 13:48:04,824 — HeartBeat — INFO — 200
+2021-11-05 13:48:04,826 — HeartBeat — INFO — Heartbeat success
+2021-11-05 13:54:45,278 — HeartBeat — INFO — 200
+2021-11-05 13:54:45,280 — HeartBeat — INFO — Heartbeat success
+2021-11-05 13:57:57,018 — Relay — INFO — Relay triggered for door opening
+2021-11-05 13:57:57,019 — MQTT — INFO — ramesh
+2021-11-05 13:57:57,019 — MQTT — INFO — ramesh
+2021-11-05 13:57:57,020 — MQTT — INFO — 1
+2021-11-05 13:57:57,020 — MQTT — INFO — 1
+2021-11-05 13:58:02,019 — Relay — INFO — Door closed 
+2021-11-05 13:59:57,159 — Relay — INFO — Relay triggered for door opening
+2021-11-05 13:59:57,160 — MQTT — INFO — aparna
+2021-11-05 13:59:57,160 — MQTT — INFO — aparna
+2021-11-05 13:59:57,160 — MQTT — INFO — 0
+2021-11-05 13:59:57,160 — MQTT — INFO — 0
+2021-11-05 13:59:57,434 — Relay — INFO — Relay triggered for door opening
+2021-11-05 13:59:57,435 — MQTT — INFO — ramesh
+2021-11-05 13:59:57,435 — MQTT — INFO — ramesh
+2021-11-05 13:59:57,437 — MQTT — INFO — 0
+2021-11-05 13:59:57,437 — MQTT — INFO — 0
+2021-11-05 14:00:02,160 — Relay — INFO — Door closed 
+2021-11-05 14:00:02,442 — Relay — INFO — Door closed 
+2021-11-05 14:01:25,721 — HeartBeat — INFO — 200
+2021-11-05 14:01:25,722 — HeartBeat — INFO — Heartbeat success
+2021-11-05 14:08:06,292 — HeartBeat — INFO — 200
+2021-11-05 14:08:06,293 — HeartBeat — INFO — Heartbeat success
+2021-11-05 14:14:46,604 — HeartBeat — INFO — 200
+2021-11-05 14:14:46,605 — HeartBeat — INFO — Heartbeat success
+2021-11-05 14:21:27,199 — HeartBeat — INFO — 200
+2021-11-05 14:21:27,200 — HeartBeat — INFO — Heartbeat success
+2021-11-05 14:28:07,500 — HeartBeat — INFO — 200
+2021-11-05 14:28:07,502 — HeartBeat — INFO — Heartbeat success
+2021-11-05 14:34:47,857 — HeartBeat — INFO — 200
+2021-11-05 14:34:47,858 — HeartBeat — INFO — Heartbeat success
+2021-11-05 14:35:36,663 — Relay — INFO — Relay triggered for door opening
+2021-11-05 14:35:36,664 — MQTT — INFO — nidal
+2021-11-05 14:35:36,664 — MQTT — INFO — nidal
+2021-11-05 14:35:36,665 — MQTT — INFO — 1
+2021-11-05 14:35:36,665 — MQTT — INFO — 1
+2021-11-05 14:35:41,664 — Relay — INFO — Door closed 
+2021-11-05 14:40:26,458 — Relay — INFO — Relay triggered for door opening
+2021-11-05 14:40:26,459 — MQTT — INFO — arief
+2021-11-05 14:40:26,459 — MQTT — INFO — arief
+2021-11-05 14:40:26,459 — MQTT — INFO — 0
+2021-11-05 14:40:26,459 — MQTT — INFO — 0
+2021-11-05 14:40:26,479 — Relay — INFO — Relay triggered for door opening
+2021-11-05 14:40:26,480 — MQTT — INFO — nidal
+2021-11-05 14:40:26,480 — MQTT — INFO — nidal
+2021-11-05 14:40:26,481 — MQTT — INFO — 0
+2021-11-05 14:40:26,481 — MQTT — INFO — 0
+2021-11-05 14:40:31,459 — Relay — INFO — Door closed 
+2021-11-05 14:40:31,480 — Relay — INFO — Door closed 
+2021-11-05 14:41:28,299 — HeartBeat — INFO — 200
+2021-11-05 14:41:28,300 — HeartBeat — INFO — Heartbeat success
+2021-11-05 14:48:08,690 — HeartBeat — INFO — 200
+2021-11-05 14:48:08,691 — HeartBeat — INFO — Heartbeat success
+2021-11-05 14:54:49,160 — HeartBeat — INFO — 200
+2021-11-05 14:54:49,161 — HeartBeat — INFO — Heartbeat success
+2021-11-05 15:01:30,073 — HeartBeat — INFO — 200
+2021-11-05 15:01:30,074 — HeartBeat — INFO — Heartbeat success
+2021-11-05 15:08:10,346 — HeartBeat — INFO — 200
+2021-11-05 15:08:10,348 — HeartBeat — INFO — Heartbeat success
+2021-11-05 15:13:40,096 — Relay — INFO — Relay triggered for door opening
+2021-11-05 15:13:40,098 — MQTT — INFO — lissy
+2021-11-05 15:13:40,098 — MQTT — INFO — lissy
+2021-11-05 15:13:40,099 — MQTT — INFO — 0
+2021-11-05 15:13:40,099 — MQTT — INFO — 0
+2021-11-05 15:13:45,098 — Relay — INFO — Door closed 
+2021-11-05 15:14:50,642 — HeartBeat — INFO — 200
+2021-11-05 15:14:50,643 — HeartBeat — INFO — Heartbeat success
+2021-11-05 15:21:30,865 — HeartBeat — INFO — 200
+2021-11-05 15:21:30,867 — HeartBeat — INFO — Heartbeat success
+2021-11-05 15:28:11,291 — HeartBeat — INFO — 200
+2021-11-05 15:28:11,292 — HeartBeat — INFO — Heartbeat success
+2021-11-05 15:34:51,575 — HeartBeat — INFO — 200
+2021-11-05 15:34:51,576 — HeartBeat — INFO — Heartbeat success
+2021-11-05 15:37:28,238 — Main application — ERROR — The received packet do not begin with a valid header!
+Traceback (most recent call last):
+  File "main_app.py", line 93, in <module>
+    Fingerprint_Access()
+  File "/home/pi/Desktop/Phase_Two_Code_03_11_2021/Firmware/FingerprintActivation.py", line 283, in Fingerprint_Access
+    if ( fingerprint_scanner.readImage() == True ):
+  File "/home/pi/Desktop/Phase_Two_Code_03_11_2021/Firmware/fingerprint.py", line 664, in readImage
+    receivedPacket = self.__readPacket()
+  File "/home/pi/Desktop/Phase_Two_Code_03_11_2021/Firmware/fingerprint.py", line 302, in __readPacket
+    raise Exception('The received packet do not begin with a valid header!')
+Exception: The received packet do not begin with a valid header!
+2021-11-05 15:41:31,836 — HeartBeat — INFO — 200
+2021-11-05 15:41:31,838 — HeartBeat — INFO — Heartbeat success
+2021-11-05 15:47:20,268 — Relay — INFO — Relay triggered for door opening
+2021-11-05 15:47:20,270 — MQTT — INFO — aparna
+2021-11-05 15:47:20,270 — MQTT — INFO — aparna
+2021-11-05 15:47:20,271 — MQTT — INFO — 1
+2021-11-05 15:47:20,271 — MQTT — INFO — 1
+2021-11-05 15:47:20,875 — Relay — INFO — Relay triggered for door opening
+2021-11-05 15:47:20,877 — MQTT — INFO — ramesh
+2021-11-05 15:47:20,877 — MQTT — INFO — ramesh
+2021-11-05 15:47:20,877 — MQTT — INFO — 1
+2021-11-05 15:47:20,877 — MQTT — INFO — 1
+2021-11-05 15:47:21,406 — Relay — INFO — Relay triggered for door opening
+2021-11-05 15:47:21,411 — MQTT — INFO — ramesh
+2021-11-05 15:47:21,411 — MQTT — INFO — ramesh
+2021-11-05 15:47:21,413 — MQTT — INFO — 1
+2021-11-05 15:47:21,413 — MQTT — INFO — 1
+2021-11-05 15:47:25,270 — Relay — INFO — Door closed 
+2021-11-05 15:47:25,877 — Relay — INFO — Door closed 
+2021-11-05 15:47:26,411 — Relay — INFO — Door closed 
+2021-11-05 15:48:13,573 — HeartBeat — INFO — 200
+2021-11-05 15:48:13,575 — HeartBeat — INFO — Heartbeat success
+2021-11-05 15:49:01,133 — Relay — INFO — Relay triggered for door opening
+2021-11-05 15:49:01,134 — MQTT — INFO — aparna
+2021-11-05 15:49:01,134 — MQTT — INFO — aparna
+2021-11-05 15:49:01,135 — MQTT — INFO — 0
+2021-11-05 15:49:01,135 — MQTT — INFO — 0
+2021-11-05 15:49:01,152 — Relay — INFO — Relay triggered for door opening
+2021-11-05 15:49:01,156 — MQTT — INFO — ramesh
+2021-11-05 15:49:01,156 — MQTT — INFO — ramesh
+2021-11-05 15:49:01,157 — MQTT — INFO — 0
+2021-11-05 15:49:01,157 — MQTT — INFO — 0
+2021-11-05 15:49:06,143 — Relay — INFO — Door closed 
+2021-11-05 15:49:06,157 — Relay — INFO — Door closed 
+2021-11-05 15:54:49,399 — Relay — INFO — Relay triggered for door opening
+2021-11-05 15:54:49,401 — MQTT — INFO — nidal
+2021-11-05 15:54:49,401 — MQTT — INFO — nidal
+2021-11-05 15:54:49,402 — MQTT — INFO — 0
+2021-11-05 15:54:49,402 — MQTT — INFO — 0
+2021-11-05 15:54:53,849 — HeartBeat — INFO — 200
+2021-11-05 15:54:53,850 — HeartBeat — INFO — Heartbeat success
+2021-11-05 15:54:54,401 — Relay — INFO — Door closed 
+2021-11-05 16:01:34,262 — HeartBeat — INFO — 200
+2021-11-05 16:01:34,263 — HeartBeat — INFO — Heartbeat success
+2021-11-05 16:08:14,484 — HeartBeat — INFO — 200
+2021-11-05 16:08:14,485 — HeartBeat — INFO — Heartbeat success
+2021-11-05 16:14:54,663 — HeartBeat — INFO — 200
+2021-11-05 16:14:54,664 — HeartBeat — INFO — Heartbeat success
+2021-11-05 16:21:35,808 — HeartBeat — INFO — 200
+2021-11-05 16:21:35,809 — HeartBeat — INFO — Heartbeat success
+2021-11-05 16:28:16,304 — HeartBeat — INFO — 200
+2021-11-05 16:28:16,305 — HeartBeat — INFO — Heartbeat success
+2021-11-05 16:34:56,516 — HeartBeat — INFO — 200
+2021-11-05 16:34:56,517 — HeartBeat — INFO — Heartbeat success
+2021-11-05 16:41:36,880 — HeartBeat — INFO — 200
+2021-11-05 16:41:36,881 — HeartBeat — INFO — Heartbeat success
+2021-11-05 16:48:18,538 — HeartBeat — INFO — 200
+2021-11-05 16:48:18,540 — HeartBeat — INFO — Heartbeat success
+2021-11-05 16:54:58,914 — HeartBeat — INFO — 200
+2021-11-05 16:54:58,915 — HeartBeat — INFO — Heartbeat success
+2021-11-05 16:58:39,499 — Relay — INFO — Relay triggered for door opening
+2021-11-05 16:58:39,501 — MQTT — INFO — ramesh
+2021-11-05 16:58:39,501 — MQTT — INFO — ramesh
+2021-11-05 16:58:39,502 — MQTT — INFO — 1
+2021-11-05 16:58:39,502 — MQTT — INFO — 1
+2021-11-05 16:58:39,522 — Relay — INFO — Relay triggered for door opening
+2021-11-05 16:58:39,525 — MQTT — INFO — aparna
+2021-11-05 16:58:39,525 — MQTT — INFO — aparna
+2021-11-05 16:58:39,527 — MQTT — INFO — 1
+2021-11-05 16:58:39,527 — MQTT — INFO — 1
+2021-11-05 16:58:40,721 — Relay — INFO — Relay triggered for door opening
+2021-11-05 16:58:40,727 — MQTT — INFO — aparna
+2021-11-05 16:58:40,727 — MQTT — INFO — aparna
+2021-11-05 16:58:40,728 — MQTT — INFO — 1
+2021-11-05 16:58:40,728 — MQTT — INFO — 1
+2021-11-05 16:58:44,501 — Relay — INFO — Door closed 
+2021-11-05 16:58:44,534 — Relay — INFO — Door closed 
+2021-11-05 16:58:45,732 — Relay — INFO — Door closed 
+2021-11-05 17:01:39,252 — HeartBeat — INFO — 200
+2021-11-05 17:01:39,253 — HeartBeat — INFO — Heartbeat success
+2021-11-05 17:04:55,002 — Relay — INFO — Relay triggered for door opening
+2021-11-05 17:04:55,003 — MQTT — INFO — aparna
+2021-11-05 17:04:55,003 — MQTT — INFO — aparna
+2021-11-05 17:04:55,004 — MQTT — INFO — 1
+2021-11-05 17:04:55,004 — MQTT — INFO — 1
+2021-11-05 17:04:56,761 — Relay — INFO — Relay triggered for door opening
+2021-11-05 17:04:56,762 — MQTT — INFO — ramesh
+2021-11-05 17:04:56,762 — MQTT — INFO — ramesh
+2021-11-05 17:04:56,763 — MQTT — INFO — 1
+2021-11-05 17:04:56,763 — MQTT — INFO — 1
+2021-11-05 17:05:00,003 — Relay — INFO — Door closed 
+2021-11-05 17:05:01,763 — Relay — INFO — Door closed 
+2021-11-05 17:05:02,170 — Relay — INFO — Relay triggered for door opening
+2021-11-05 17:05:02,172 — MQTT — INFO — ramesh
+2021-11-05 17:05:02,172 — MQTT — INFO — ramesh
+2021-11-05 17:05:02,173 — MQTT — INFO — 0
+2021-11-05 17:05:02,173 — MQTT — INFO — 0
+2021-11-05 17:05:02,200 — Relay — INFO — Relay triggered for door opening
+2021-11-05 17:05:02,204 — MQTT — INFO — aparna
+2021-11-05 17:05:02,204 — MQTT — INFO — aparna
+2021-11-05 17:05:02,206 — MQTT — INFO — 0
+2021-11-05 17:05:02,206 — MQTT — INFO — 0
+2021-11-05 17:05:07,172 — Relay — INFO — Door closed 
+2021-11-05 17:05:07,204 — Relay — INFO — Door closed 
+2021-11-05 17:08:19,475 — HeartBeat — INFO — 200
+2021-11-05 17:08:19,476 — HeartBeat — INFO — Heartbeat success
+2021-11-05 17:14:59,690 — HeartBeat — INFO — 200
+2021-11-05 17:14:59,691 — HeartBeat — INFO — Heartbeat success
+2021-11-05 17:21:19,480 — Relay — INFO — Relay triggered for door opening
+2021-11-05 17:21:19,481 — MQTT — INFO — aparna
+2021-11-05 17:21:19,481 — MQTT — INFO — aparna
+2021-11-05 17:21:19,482 — MQTT — INFO — 0
+2021-11-05 17:21:19,482 — MQTT — INFO — 0
+2021-11-05 17:21:24,482 — Relay — INFO — Door closed 
+2021-11-05 17:21:40,265 — HeartBeat — INFO — 200
+2021-11-05 17:21:40,266 — HeartBeat — INFO — Heartbeat success
+2021-11-05 17:28:20,586 — HeartBeat — INFO — 200
+2021-11-05 17:28:20,587 — HeartBeat — INFO — Heartbeat success
+2021-11-05 17:35:00,886 — HeartBeat — INFO — 200
+2021-11-05 17:35:00,887 — HeartBeat — INFO — Heartbeat success
+2021-11-05 17:41:41,192 — HeartBeat — INFO — 200
+2021-11-05 17:41:41,194 — HeartBeat — INFO — Heartbeat success
+2021-11-05 17:48:21,500 — HeartBeat — INFO — 200
+2021-11-05 17:48:21,501 — HeartBeat — INFO — Heartbeat success
+2021-11-05 17:55:01,768 — HeartBeat — INFO — 200
+2021-11-05 17:55:01,769 — HeartBeat — INFO — Heartbeat success
+2021-11-05 18:01:42,218 — HeartBeat — INFO — 200
+2021-11-05 18:01:42,219 — HeartBeat — INFO — Heartbeat success
+2021-11-05 18:08:22,659 — HeartBeat — INFO — 200
+2021-11-05 18:08:22,660 — HeartBeat — INFO — Heartbeat success
+2021-11-05 18:15:02,881 — HeartBeat — INFO — 200
+2021-11-05 18:15:02,882 — HeartBeat — INFO — Heartbeat success
+2021-11-05 18:17:35,539 — Relay — INFO — Relay triggered for door opening
+2021-11-05 18:17:35,540 — MQTT — INFO — arief
+2021-11-05 18:17:35,540 — MQTT — INFO — arief
+2021-11-05 18:17:35,541 — MQTT — INFO — 0
+2021-11-05 18:17:35,541 — MQTT — INFO — 0
+2021-11-05 18:17:36,810 — Relay — INFO — Relay triggered for door opening
+2021-11-05 18:17:36,813 — MQTT — INFO — nidal
+2021-11-05 18:17:36,813 — MQTT — INFO — nidal
+2021-11-05 18:17:36,814 — MQTT — INFO — 0
+2021-11-05 18:17:36,814 — MQTT — INFO — 0
+2021-11-05 18:17:40,540 — Relay — INFO — Door closed 
+2021-11-05 18:17:41,813 — Relay — INFO — Door closed 
+2021-11-05 18:17:47,315 — Relay — INFO — Relay triggered for door opening
+2021-11-05 18:17:47,317 — MQTT — INFO — azhar
+2021-11-05 18:17:47,317 — MQTT — INFO — azhar
+2021-11-05 18:17:47,318 — MQTT — INFO — 1
+2021-11-05 18:17:47,318 — MQTT — INFO — 1
+2021-11-05 18:17:52,317 — Relay — INFO — Door closed 
+2021-11-05 18:18:06,482 — Relay — INFO — Relay triggered for door opening
+2021-11-05 18:18:06,484 — MQTT — INFO — azhar
+2021-11-05 18:18:06,484 — MQTT — INFO — azhar
+2021-11-05 18:18:06,485 — MQTT — INFO — 0
+2021-11-05 18:18:06,485 — MQTT — INFO — 0
+2021-11-05 18:18:11,484 — Relay — INFO — Door closed 
+2021-11-05 18:21:43,131 — HeartBeat — INFO — 200
+2021-11-05 18:21:43,132 — HeartBeat — INFO — Heartbeat success
+2021-11-05 18:28:23,411 — HeartBeat — INFO — 200
+2021-11-05 18:28:23,413 — HeartBeat — INFO — Heartbeat success
+2021-11-05 18:35:03,609 — HeartBeat — INFO — 200
+2021-11-05 18:35:03,611 — HeartBeat — INFO — Heartbeat success
+2021-11-05 18:41:43,988 — HeartBeat — INFO — 200
+2021-11-05 18:41:43,989 — HeartBeat — INFO — Heartbeat success
+2021-11-05 18:42:57,112 — Relay — INFO — Relay triggered for door opening
+2021-11-05 18:42:57,113 — MQTT — INFO — arief
+2021-11-05 18:42:57,113 — MQTT — INFO — arief
+2021-11-05 18:42:57,114 — MQTT — INFO — 0
+2021-11-05 18:42:57,114 — MQTT — INFO — 0
+2021-11-05 18:43:02,114 — Relay — INFO — Door closed 
+2021-11-05 18:48:24,325 — HeartBeat — INFO — 200
+2021-11-05 18:48:24,326 — HeartBeat — INFO — Heartbeat success
+2021-11-05 18:55:04,565 — HeartBeat — INFO — 200
+2021-11-05 18:55:04,567 — HeartBeat — INFO — Heartbeat success
+2021-11-05 19:01:44,792 — HeartBeat — INFO — 200
+2021-11-05 19:01:44,793 — HeartBeat — INFO — Heartbeat success
+2021-11-05 19:08:25,049 — HeartBeat — INFO — 200
+2021-11-05 19:08:25,050 — HeartBeat — INFO — Heartbeat success
+2021-11-05 19:15:05,325 — HeartBeat — INFO — 200
+2021-11-05 19:15:05,326 — HeartBeat — INFO — Heartbeat success
+2021-11-05 19:21:45,698 — HeartBeat — INFO — 200
+2021-11-05 19:21:45,699 — HeartBeat — INFO — Heartbeat success
+2021-11-05 19:28:25,994 — HeartBeat — INFO — 200
+2021-11-05 19:28:25,996 — HeartBeat — INFO — Heartbeat success
+2021-11-05 19:35:06,382 — HeartBeat — INFO — 200
+2021-11-05 19:35:06,383 — HeartBeat — INFO — Heartbeat success
+2021-11-05 19:41:46,612 — HeartBeat — INFO — 200
+2021-11-05 19:41:46,613 — HeartBeat — INFO — Heartbeat success
+2021-11-05 19:48:26,837 — HeartBeat — INFO — 200
+2021-11-05 19:48:26,838 — HeartBeat — INFO — Heartbeat success
+2021-11-05 19:55:07,558 — HeartBeat — INFO — 200
+2021-11-05 19:55:07,559 — HeartBeat — INFO — Heartbeat success
+2021-11-05 20:01:47,822 — HeartBeat — INFO — 200
+2021-11-05 20:01:47,824 — HeartBeat — INFO — Heartbeat success
+2021-11-05 20:08:28,088 — HeartBeat — INFO — 200
+2021-11-05 20:08:28,091 — HeartBeat — INFO — Heartbeat success
+2021-11-05 20:15:08,360 — HeartBeat — INFO — 200
+2021-11-05 20:15:08,361 — HeartBeat — INFO — Heartbeat success
+2021-11-05 20:21:48,585 — HeartBeat — INFO — 200
+2021-11-05 20:21:48,587 — HeartBeat — INFO — Heartbeat success
+2021-11-05 20:28:28,867 — HeartBeat — INFO — 200
+2021-11-05 20:28:28,868 — HeartBeat — INFO — Heartbeat success
+2021-11-05 20:35:09,349 — HeartBeat — INFO — 200
+2021-11-05 20:35:09,351 — HeartBeat — INFO — Heartbeat success
+2021-11-05 20:41:49,761 — HeartBeat — INFO — 200
+2021-11-05 20:41:49,763 — HeartBeat — INFO — Heartbeat success
+2021-11-05 20:48:30,058 — HeartBeat — INFO — 200
+2021-11-05 20:48:30,059 — HeartBeat — INFO — Heartbeat success
+2021-11-05 20:55:10,378 — HeartBeat — INFO — 200
+2021-11-05 20:55:10,379 — HeartBeat — INFO — Heartbeat success
+2021-11-05 21:01:50,687 — HeartBeat — INFO — 200
+2021-11-05 21:01:50,689 — HeartBeat — INFO — Heartbeat success
+2021-11-05 21:08:31,003 — HeartBeat — INFO — 200
+2021-11-05 21:08:31,005 — HeartBeat — INFO — Heartbeat success
+2021-11-05 21:15:11,469 — HeartBeat — INFO — 200
+2021-11-05 21:15:11,471 — HeartBeat — INFO — Heartbeat success
+2021-11-05 21:21:51,724 — HeartBeat — INFO — 200
+2021-11-05 21:21:51,725 — HeartBeat — INFO — Heartbeat success
+2021-11-05 21:28:32,210 — HeartBeat — INFO — 200
+2021-11-05 21:28:32,211 — HeartBeat — INFO — Heartbeat success
+2021-11-05 21:35:12,471 — HeartBeat — INFO — 200
+2021-11-05 21:35:12,473 — HeartBeat — INFO — Heartbeat success
+2021-11-05 21:41:52,778 — HeartBeat — INFO — 200
+2021-11-05 21:41:52,779 — HeartBeat — INFO — Heartbeat success
+2021-11-05 21:48:33,244 — HeartBeat — INFO — 200
+2021-11-05 21:48:33,246 — HeartBeat — INFO — Heartbeat success
+2021-11-05 21:55:13,487 — HeartBeat — INFO — 200
+2021-11-05 21:55:13,488 — HeartBeat — INFO — Heartbeat success
+2021-11-05 22:01:53,704 — HeartBeat — INFO — 200
+2021-11-05 22:01:53,705 — HeartBeat — INFO — Heartbeat success
+2021-11-05 22:08:34,123 — HeartBeat — INFO — 200
+2021-11-05 22:08:34,124 — HeartBeat — INFO — Heartbeat success
+2021-11-05 22:15:14,394 — HeartBeat — INFO — 200
+2021-11-05 22:15:14,395 — HeartBeat — INFO — Heartbeat success
+2021-11-05 22:21:54,704 — HeartBeat — INFO — 200
+2021-11-05 22:21:54,705 — HeartBeat — INFO — Heartbeat success
+2021-11-05 22:28:35,507 — HeartBeat — INFO — 200
+2021-11-05 22:28:35,509 — HeartBeat — INFO — Heartbeat success
+2021-11-05 22:35:16,001 — HeartBeat — INFO — 200
+2021-11-05 22:35:16,002 — HeartBeat — INFO — Heartbeat success
+2021-11-05 22:41:56,293 — HeartBeat — INFO — 200
+2021-11-05 22:41:56,294 — HeartBeat — INFO — Heartbeat success
+2021-11-05 22:48:36,564 — HeartBeat — INFO — 200
+2021-11-05 22:48:36,565 — HeartBeat — INFO — Heartbeat success
+2021-11-05 22:55:17,095 — HeartBeat — INFO — 200
+2021-11-05 22:55:17,096 — HeartBeat — INFO — Heartbeat success
+2021-11-05 23:01:57,538 — HeartBeat — INFO — 200
+2021-11-05 23:01:57,540 — HeartBeat — INFO — Heartbeat success
+2021-11-05 23:08:38,164 — HeartBeat — INFO — 200
+2021-11-05 23:08:38,165 — HeartBeat — INFO — Heartbeat success
+2021-11-05 23:15:18,471 — HeartBeat — INFO — 200
+2021-11-05 23:15:18,473 — HeartBeat — INFO — Heartbeat success
+2021-11-05 23:21:58,796 — HeartBeat — INFO — 200
+2021-11-05 23:21:58,797 — HeartBeat — INFO — Heartbeat success
+2021-11-05 23:28:40,060 — HeartBeat — INFO — 200
+2021-11-05 23:28:40,062 — HeartBeat — INFO — Heartbeat success
+2021-11-05 23:35:20,894 — HeartBeat — INFO — 200
+2021-11-05 23:35:20,896 — HeartBeat — INFO — Heartbeat success
+2021-11-05 23:42:01,206 — HeartBeat — INFO — 200
+2021-11-05 23:42:01,207 — HeartBeat — INFO — Heartbeat success
+2021-11-05 23:48:41,587 — HeartBeat — INFO — 200
+2021-11-05 23:48:41,588 — HeartBeat — INFO — Heartbeat success
+2021-11-05 23:55:22,085 — HeartBeat — INFO — 200
+2021-11-05 23:55:22,089 — HeartBeat — INFO — Heartbeat success

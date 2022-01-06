@@ -1,0 +1,45 @@
+1.	Load Raspberry Pi os to the sd card.
+2.	Update and upgrade the os using the commands.
+	a.	sudo apt update
+	b.	sudo apt upgrade
+3.	Install VNC in the os using the commands.
+	a.	sudo raspi-config
+	b.	Select interface options.
+	c.	Select VNC.
+	d.	Select Ok to enable the VNC.
+	e.	Select interface options.
+	f.	Select SPI
+	g.	Select Ok to enable the SPI.
+4.	Copy the latest code to the desktop and extract it.
+5.	Modules to install
+	a.	sudo apt-get install bluetooth libbluetooth-dev
+	b.	sudo python3 -m pip install pybluez
+	a.	pip3 install pytz
+	d.	pip3 install wifi
+	e.	pip3 install gTTs
+	f.	pip3 install cryptocode
+	g.	pip3 install paho-mqtt
+	
+6.	Create a folder database in Documents and copy the EndDeviceDB.db file into it.
+7.	Change the device name by running the file Device_Name.py from Firmware folder and then reboot.
+8.	Clear the fingerprint database.
+	a.	Copy the three lines from app.py
+		#Fingerprint_scanner_data_delete_entry()
+		#Fingerprint_scanner_data_delete_exit()
+		#from Firmware.FingerprintActivation import Add_finger,Delete_finger,Delete_finger_exit,Fingerprint_scanner_data_delete_entry,Fingerprint_scanner_data_delete_exit
+	b.	Paste the first two in main_app.py main code. And the third one in imports.
+	c.	Run the main_app.py	
+	
+8.	After one time running make into previous condition.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+

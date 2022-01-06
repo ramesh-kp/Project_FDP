@@ -1,0 +1,17 @@
+Issues
+-------
+Nishad is not detected in the live camera.
+Nishad finger is not able to store in the fingerprint scanner.
+When junkins is build dataset is cleared.
+Finger print scanner and RFID reader is stopped working while program is running.
+Issue while adding faces in the mobile app. (Ran out of input. (Close all the pkl file)).
+Antipassback.
+Face Liveness.
+Data set update.
+
+Suggestions
+-----------
+Mobile app must have voice output.
+Notification for "Unknown" Detection.
+Mechanical Enclosures.
+If needed change the processor to mac suggestion.

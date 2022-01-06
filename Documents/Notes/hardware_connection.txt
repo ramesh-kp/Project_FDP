@@ -1,0 +1,8 @@
+ARDUINO_SERIAL_PORT = "/dev/ttyUSB2"
+baudrate = 9600
+fingerprint_entry_device_port = "/dev/ttyUSB0" 
+fingerprint_exit_device_port = "/dev/ttyUSB1"
+fingerprint_baudrate = 57600
+Bluetooth_Activation_switch = 35 #GPIO 16
+Emergency_Exit_switch = 40 #GPIO 21
+
