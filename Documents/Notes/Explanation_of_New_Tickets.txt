@@ -2,6 +2,12 @@ Device LED Indications - Fine tuning
 	The blue led does not light up. 
 	It will only turn on if either a fingerprint sensor or an rfid sensor has been detected.
 	Turn on the green led when the face is detected.
+		add 4 lines in the remote_door_api_function.py
+			from Firmware.configurations import LED_BLINK_COUNT
+			from .Constant import GPIO_GREEN
+			from Firmware.Led_indicators import BlinkLed
+		
+			BlinkLed(GPIO_GREEN,LED_BLINK_COUNT) after the RelayOnTrigger() function
 
 
 
