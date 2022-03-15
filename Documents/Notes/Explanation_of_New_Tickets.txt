@@ -1,5 +1,4 @@
 Device LED Indications - Fine tuning
-	The blue led does not light up. 
 	It will only turn on if either a fingerprint sensor or an rfid sensor has been detected.
 	Turn on the green led when the face is detected.
 		add 4 lines in the remote_door_api_function.py

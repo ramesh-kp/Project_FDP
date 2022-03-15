@@ -1,0 +1,2 @@
+Login Issue
+https://askubuntu.com/questions/1102970/messed-up-my-path-environment-variable-and-cant-login-to-desktop
