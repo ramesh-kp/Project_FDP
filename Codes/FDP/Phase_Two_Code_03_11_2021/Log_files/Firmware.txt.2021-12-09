@@ -1,4 +1,0 @@
-2021-12-10 10:02:03,781 — Attendance — INFO — Attendance synchronization API triggered
-2021-12-10 10:02:03,784 — Attendance — INFO — {'DeviceCode': 'FDP1319', 'EmployeeId': 21, 'PunchTime': datetime.datetime(2021, 12, 10, 10, 2, 3, 765711, tzinfo=<DstTzInfo 'Asia/Kolkata' IST+5:30:00 STD>), 'PunchType': 2, 'AttendanceStatus': 0}
-2021-12-10 10:02:03,971 — Attendance — INFO — {"Message":"Success"}
-2021-12-10 10:02:03,992 — Attendance — INFO — Sucess
