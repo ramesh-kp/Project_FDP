@@ -1,0 +1,21 @@
+## Initial Thoughts on OTA Updates
+
+For the firmware upgrade, wait for user input.
+Go to the link and download the new firmware if the user agrees to the firmware upgrade.
+It is necessary to unzip the firmware file.
+To determine whether there are any differences between the new firmware and the previous version, compare the two. (This is optional.)
+Remove the old firmware from the destination and replace it with the new firmware you have downloaded.
+The firmware will be updated as a result of the voice output.
+Restart the Raspberry Pi.
+Run the main python script while the Raspberry Pi is booting up.
+The firmware update is informed by the voice output.
+Make sure that all of the features are working properly.
+
+Sample url for the download for the zip file.
+https://drive.google.com/uc?export=download&id=1yAmFc15GtP52El_RTxl6uqmZZJi-h4BG
+https://file-examples.com/wp-content/uploads/2017/02/zip_2MB.zip
+
+## References
+
+https://hub.mender.io/t/raspberry-pi-3-model-b-b/57
+https://hub.mender.io/t/raspberry-pi-3-model-b-b-raspbian/140
