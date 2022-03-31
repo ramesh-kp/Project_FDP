@@ -6,8 +6,8 @@ It is necessary to unzip the firmware file.
 To determine whether there are any differences between the new firmware and the previous version, compare the two. (This is optional.)
 Remove the old firmware from the destination and replace it with the new firmware you have downloaded.
 The firmware will be updated as a result of the voice output.
-Restart the Raspberry Pi.
-Run the main python script while the Raspberry Pi is booting up.
+Close the current terminal and open a new one.
+In the new terminal, run the main python script.
 The firmware update is informed by the voice output.
 Make sure that all of the features are working properly.
 
