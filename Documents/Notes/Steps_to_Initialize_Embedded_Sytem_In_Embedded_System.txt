@@ -31,8 +31,151 @@
 	c.	Run the main_app.py	
 	
 8.	After one time running make into previous condition.
-	
-	
+
+
+2021 Update! React Testing with Jest and Enzyme
+Active Listening Skills
+Adobe CC Masterclass: Photoshop, Illustrator, XD & InDesign
+Advanced C Programming Course
+Advanced React and Redux
+Agile PM 101 - Learn the Truth About Agile versus Waterfall
+Agility
+Analytical Skills
+Android Kotlin - Advanced
+Android Kotlin - Beginner
+Android Kotlin - Intermediate
+Angular - The Complete Guide (2021 Edition)
+Angular from Beginner to Advanced
+Appium -Mobile Testing (Android/IOS) from Scratch+Frameworks
+Basics of Scrum, Agile and Project Delivery
+Become a HTML and CSS Developer - Build a Responsive Site
+Become an Effective Communicator
+Becoming a first time Manager (PMP)
+Beginner Full Stack Web Development: HTML, CSS, React & Node
+Blockchain A-Z™: Learn How To Build Your First Blockchain
+Blockchain for Business: The New Industrial Revolution
+Body Language Basics
+Business Fundamentals: Corporate Strategy
+Certified Tester ISTQB Foundation Level (CTFL) -Updated 2021
+Change Management
+Communicating & Leading Across Virtual Teams
+Communication for Beginners
+Complete UiPath RPA Developer Course: Build 7 Robots
+Conducting Effective Performance Reviews
+Creating Collaborative Outcomes
+Crisis Management
+Data Science and Machine Learning using Python - A Bootcamp
+Dealing with difficult people
+Deep Learning Computer Vision™ CNN, OpenCV, YOLO, SSD & GANs
+Deliver software faster with Microservices
+Design Patterns in TypeScript
+DevOps Essentials
+Developer To Architect: Mastering Software Architecture
+Docker Mastery: with Kubernetes +Swarm from a Docker Captain
+Docker and Kubernetes: The Complete Guide
+Electronics engineering: An introduction
+Email Writing- How to Write Effective Emails
+Embedded Systems Programming on ARM Cortex-M3/M4 Processor
+FREE Microsoft Dynamics 365 For Beginners (Updated for 2021)
+FREE Microsoft Dynamics 365&Power Apps(CDS) Developer Course
+Free Lean Six Sigma Primer
+Full Stack Web Development with Node.js
+Genetic Algorithms in Python and MATLAB
+Giving and Receiving Feedback
+Goal Setting and Getting Things Done
+GraphQL with React: The Complete Developers Guide
+HTML Learn It From Scratch Course
+HTML and CSS for Beginners - Build a Website & Launch ONLINE
+HTML5 and CSS3 Certification Training [2021 Edition]
+HTML5 and CSS3 Fundamentals
+How To Set Goals That Win
+ISTQB Agile Tester Extension for 2021 EXAM + 500 QUIZ Latest
+Influence: Communication Skills for Management & LeadershipInfluence: Communication Skills for Management & Leadership
+Introduction to Genetic Algorithms: Theory and Applications
+JIRA for Beginners - Use JIRA effectively in your projects
+Java Tutorial for Complete Beginners
+Java11 New Features - Learn by coding it
+JavaScript Programming Certification Training [2021 Edition]
+Leadership Program (covering all aspects)
+Leading Virtual Teams
+Lean Six Sigma Green Belt Certification (Accredited)
+Lean Six Sigma Yellow Belt Certification (Accredited)
+Learn Ethical Hacking From Scratch
+Learn JIRA in less than a hour with Agile Methodology
+Learn JMETER from Scratch on Live Apps -Performance Testing
+Learn JavaScript for Web Development
+Learn to Code with Python
+Loopback 4: Modern ways to Build APIs in Typescript & NodeJs
+Master Microcontroller :Timers, PWM, CAN,RTC,Low Power(MCU2)
+Master Microcontroller and Embedded Driver Development(MCU1)
+Master-Angular 7
+Mastering Data Structures & Algorithms using C and C++
+Mastering your own communication: The fundamentals
+Mastering your own communication: The fundamentals
+Microsoft PowerApps & Flow: Build Business Apps Without Code
+MongoDB Certification Training (beginner to expert) 2021
+MongoDB Essentials - Understand the Basics of MongoDB
+NLP - Natural Language Processing with Python
+Negotiating skills
+NestJS Zero to Hero - Modern TypeScript Back-end Development
+NgRx (with NgRx Data) - The Complete Guide (FREE E-Book)
+PHP OOP Complete Ecommerce Project Course - 4 Courses in 1
+People Management
+Problem solving and Decision making
+Programming in Microsoft C# - Exam 70-483
+Projects in Electron: Learn Electron Framework Building Apps
+Public Speaking
+Python Django Dev To Deployment
+Python for Beginners:Introduction to Python
+Python for Computer Vision with OpenCV and Deep Learning
+Python for Computer Vision with OpenCV and Deep Learning
+Python,Flask Framework And Django Course For Beginners
+React - The Complete Guide (incl Hooks, React Router, Redux)
+React Certification Training (beginner to expert level) 2021
+React Hooks Video Player [2019]
+React Native - Advanced
+React Native - Beginner
+React Native - Intermediate
+Risk Management
+Ruby on Rails Foundations
+SDLC models:basics for beginners
+Selenium WebDriver with Java -Basics to Advanced+Frameworks
+Smart Tips - Communication
+Structural and Critical Thinking
+Swift - Beginner
+Swift -Advanced
+Swift -Intermediate
+Team Building for Managers
+Team Work and Team Building
+The Art of Communications - Become A Master Communicator
+The Complete Angular Course: Beginner to Advanced
+The Complete Communication Skills Master Class for Life
+The Complete Developers Guide to MongoDB
+The Complete Electronics Course 2021: Analog Hardware Design
+The Complete ServiceNow Developer Course
+The Data Science Course 2021: Complete Data Science Bootcamp
+The Essential Guide for Effective Manager
+The Ultimate ReactJS Developer Course
+Time Management
+UI UX Design & Prototyping using Adobe XD
+UX & Web Design Master Course: Strategy, Design, Development
+UX Design Process from User Research to Usability Testing
+UiPath - Level 1 Robotic Process Automation
+Ultimate AWS Certified Solutions Architect Associate 2021
+Unit testing your Javascript with jasmine
+User Experience (UX) Fundamentals
+Verbal & Non Verbal - Level 2
+Vue - The Complete Guide (w/ Router, Vuex, Composition API)
+Web Development w/ Google’s Go (golang) Programming Language
+Web GIS & ArcGIS Online: Smart Web GIS Project Creation
+Web GIS development course
+Website Hacking / Penetration Testing & Bug Bounty Hunting
+Windows Server 2016 Administration
+WordPress Theme Development from Scratch
+WordPress Theme Development with Bootstrap in 2021
+Work Life Management
+Workplace Diversity - How to bring in an inclusive culture
+Workplace Etiquette
 	
 	
 	
