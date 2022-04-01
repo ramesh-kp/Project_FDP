@@ -15,3 +15,4 @@ Mobile app must have voice output.
 Notification for "Unknown" Detection.
 Mechanical Enclosures.
 If needed change the processor to mac suggestion.
+
