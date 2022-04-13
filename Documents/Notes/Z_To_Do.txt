@@ -1,0 +1,9 @@
+By Nipun
+    142 - Ota update api
+    131 - voice respose api
+
+Tickets have been reopened.
+    Check the led indicators.
+    Check out cuda's simultaneous processing of many cameras.
+    Stop the device's voice response.
+    Pending tasks in OTA updates.
