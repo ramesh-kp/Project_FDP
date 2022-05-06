@@ -1,0 +1,25 @@
+Linux Commands
+https://www.rapidtables.com/code/linux/
+
+Using the Python Interpreter
+https://docs.python.org/3.8/tutorial/interpreter.html#invoking-the-interpreter
+
+Windows Commands
+https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/commands-by-server-role
+
+Install vscode
+Extensions
+	Python
+	Pylance
+	Code runner
+	Firefly theme
+	
+Open settings
+	Change font size
+	Minimap disabled
+	Autosave onFocusChange
+	Code runner 
+		Clear previous output Enabled
+		Save all files before run Enabled
+		Show execution messages disabled
+		Change workbench panel to right

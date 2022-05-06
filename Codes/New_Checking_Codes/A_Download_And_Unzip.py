@@ -3,10 +3,10 @@ import requests
 import zipfile
 from io import BytesIO
 
-destination_path = "/home/pi/Downloads"
+destination_path = "C:\\Users\\ramesh.kp\\Desktop\\Check\\"
 
 print('Downloading started')
-url = "https://github.com/ramesh-kp/OTA_Update/archive/refs/heads/master.zip"
+url = "https://github.com/ramesh-kp/Courses/archive/refs/heads/main.zip"
 # Split URL to get the file name
 filename = url.split('/')[-1]
 # Downloading the file by sending the request to the URL

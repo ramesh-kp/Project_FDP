@@ -113,4 +113,7 @@ Sol.	https://stackoverflow.com/questions/6454564/target-wsgi-script-cannot-be-lo
 		sudo apt-get remove libapache2-mod-python libapache2-mod-wsgi
 		sudo apt-get install libapache2-mod-wsgi-py3
 		
+5.	https://api-facedetection.naicotech.com:4453/
+	Internal Server Error
+Sol.	
 

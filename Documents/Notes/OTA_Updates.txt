@@ -19,3 +19,7 @@ https://file-examples.com/wp-content/uploads/2017/02/zip_2MB.zip
 
 https://hub.mender.io/t/raspberry-pi-3-model-b-b/57
 https://hub.mender.io/t/raspberry-pi-3-model-b-b-raspbian/140
+
+Download link:
+http://ramesh:ramesh@321@git.naicotech.com/facedetection-firmware.git
+
