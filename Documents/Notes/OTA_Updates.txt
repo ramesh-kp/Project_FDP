@@ -23,3 +23,6 @@ https://hub.mender.io/t/raspberry-pi-3-model-b-b-raspbian/140
 Download link:
 http://ramesh:ramesh@321@git.naicotech.com/facedetection-firmware.git
 
+Install Git and Gnome Terminal in the Raspberry Pi OS.
+    python3 -m pip install gitpython
+    sudo apt-get install gnome-terminal
