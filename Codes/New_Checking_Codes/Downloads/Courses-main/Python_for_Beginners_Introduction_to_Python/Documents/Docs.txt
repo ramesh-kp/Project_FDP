@@ -1,7 +1,0 @@
-Python three components
-Parser - Convert source code abstract syntax.
-Compiler - Convert abstract syntax to bytecode format.
-Interpreter - Executes code line by line.
-
-
-

@@ -26,3 +26,9 @@ http://ramesh:ramesh@321@git.naicotech.com/facedetection-firmware.git
 Install Git and Gnome Terminal in the Raspberry Pi OS.
     python3 -m pip install gitpython
     sudo apt-get install gnome-terminal
+	
+192.168.0.47
+101 - entry
+201 - exit
+	
+	

@@ -46,3 +46,8 @@ Firware update in device side - OTA update
 	Device will call API with version number.
 	The API will return the download link and device will install the firmware from the link.
 
+1.	Fix without restart
+2.	Create a file in the device and store the pending task after the restart
+3.	Read the file after each restart
+4.	Get the version number and call the put request
+5.	Delete the content in the file.

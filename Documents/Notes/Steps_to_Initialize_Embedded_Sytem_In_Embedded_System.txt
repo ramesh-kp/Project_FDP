@@ -1,3 +1,11 @@
+Format SD Card
+1.	In Command Prompt, type "disk part".
+2.	In Command Prompt, type "list disk".
+3. 	In Command Prompt, type "select disk 1".
+4.	In Command Prompt, type "clean".
+5.	In Command Prompt, type "create partition primary".
+
+Booting Raspberry Pi Os
 1.	Load Raspberry Pi os to the sd card.
 2.	Update and upgrade the os using the commands.
 	a.	sudo apt update
@@ -17,9 +25,10 @@
 	a.	pip3 install pytz
 	d.	pip3 install wifi
 	e.	pip3 install gTTs
-	f.	pip3 install cryptocode
+	f.	python3 -m pip install cryptocode
 	g.	pip3 install paho-mqtt
-	
+	h.	sudo apt-get install python3-git
+	i.	sudo apt-get install gnome-terminal
 6.	Create a folder database in Documents and copy the EndDeviceDB.db file into it.
 7.	Change the device name by running the file Device_Name.py from Firmware folder and then reboot.
 8.	Clear the fingerprint database.
@@ -29,6 +38,44 @@
 		#from Firmware.FingerprintActivation import Add_finger,Delete_finger,Delete_finger_exit,Fingerprint_scanner_data_delete_entry,Fingerprint_scanner_data_delete_exit
 	b.	Paste the first two in main_app.py main code. And the third one in imports.
 	c.	Run the main_app.py	
-	
 8.	After one time running make into previous condition.
 
+Change the resolution in VNC viewer
+	a.	Type the command in the terminal.
+		sudo nano /boot/config.txt
+	b.	Add the following lines to the "uncomment to force a certain HDMI mode (this will force VGA)" section.
+		hdmi_ignore_edid=0xa5000080
+		hdmi_group=2
+		hdmi_mode=85
+
+Configuring the Python code to run while the Raspberry Pi is starting up.
+	a.	Make a "Visage" folder in the "Desktop" folder.
+	b.	In the "Visage" folder, make a folder called "Code."
+	c.	In the "Visage" folder, copy the "booting code.py" file.
+	d.	In Pi OS, press ctrl + h to see all hidden folders.
+	e.	In the ".config" folder, make a folder called "autostart."
+	f.	In the "autostart" folder, copy the "autorunmyfile.desktop" file.
+	g.	In the "Visage" folder, copy the "first time run.py" file.
+	h.	During the initial setup, run "first time run.py."
+	i.	Check whether the face detection code is executing during the initial bootup of the Pi.
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
