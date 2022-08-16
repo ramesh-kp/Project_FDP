@@ -1,0 +1,305 @@
+Overall Road map
+Udemy Couse on road map
+
+vision 
+goals 
+objectives 
+product strategy
+
+why bluetooth to add the new enddevice
+make all thing mqtt format
+
+why postgress
+why the algorithm
+
+usecases - scenarious
+check the cases of malfunction of camera and other devices
+activity diagram
+
+accuracy
+time
+reliability
+
+vision
+----------------------------------------------------------------
+In the offices, a biometric system is now in use. There are several drawbacks and challenges with the system, such as the rush at
+the entrance and departure doors that results from long lines at the doors when there are a lot of people in the workplace.
+Additionally, the entering time will lag. Additionally, the present system will have security issues. If a user's authentication
+card is missing, other users may use it without authorization.
+
+In order to resolve these problems a new system is introduced rather than biometrics. It is possible to recognise and authorise
+the user's face. The user will be given access to enter the office with attendance which is the primary aim of our system.
+
+Our system will be able to recognize several faces and the face in free flow. Therefore, there is no need to wait. Moreover,
+the security problem has been fixed. If the system cannot quickly identify the face, a biometric system will be used. Then the user
+may access the entry door and exit door using fingerprint authentication.
+
+Previous Architecture Version
+-----------------------------
+Solution Architecture Objective
+    The key objective of this project is to build a Face Detection Product which can be used to control the door access.
+    The product will have an RFID and Fingerprint as secondary access systems.
+    The product will have these major components to meet the requirements.
+        Mobile Application
+        Access Control Device (RFID, Fingerprint ,Speaker, Interface with controller, MQTT Module for server to device Communication
+            and SQLite Database)
+        Server Component (Server API, Database, Face recognition system and MQTT)
+        Camera Streaming
+
+Architectural Considerations
+    Following are the key requirements which have been identified as key objectives while architecting the solution.
+        Control the door access by recognizing the face
+        RFID and Fingerprint Integration for door access
+        Capture the faces if a group of peoples access together
+        Offline access system with RFID and Fingerprint when the network fails
+        Admin response module to remotely control the door
+        Live Camera Feed
+
+Major Use cases
+    An Employee comes in/out to the office - If the face recognition system detects
+    An Employee comes in/out to the office - If the face is not detected
+    If an outsider comes into the office
+    A group of people enters / exit together
+    Unauthorized entry of a person
+    Manage employee / device
+
+Purpose
+    This document provides a comprehensive architectural overview of the Face detection Application using various architectural views
+    to depict different aspects of the system. It is intended to capture and convey the significant architectural decisions which have
+    been made to design the system, considering the best industry-wide practices. This document presents the architectural
+    representation as a series of views - logical and deployment.
+
+Scope
+    This Software Architecture Document provides an architectural overview of the Face Detection Product. The Face Detection Product
+    will be a mechanical device with an electronic assembly. It has the capability to identify the person with their face, Fingerprint
+    and RFID.
+
+An Employee comes in to the office - If the face recognition system detects
+    Live camera streaming is always feed to the server and the face recognition system process the frames.
+    If an employee is detected in the system and he passes the Line of reference.
+    The Face recognition system, transfer the name of the employee to the NLG and it generates the welcome message.
+    The server sends the door open command with the welcome message to the client device.
+    Client device trigger the relay and the message is converted to voice and play using the speaker connected to it.
+    Server marks the attendance with the timestamp.
+
+An Employee comes in to the office - If Face is not Recognised
+    If the employee crosses the line of reference and the person is not detected in face recognition.
+    The server sends a text message to the client and the client device plays the message and activate the RFID and Fingerprint scanner.
+    If the employee use fingerprint scanner or RFID the client device recognise the employee Id and send it to the server.
+    The server generates the Message using NLG and send it to the client and the client device opens the door and welcomes the
+    employee with welcome message.
+
+If an outsider comes into the office
+    The system instruct the person to use RFID of fingerprint If he has!
+    Else contact the admin for further help.
+    Admin can press the Door open button to remotely open the door.
+
+If an Employee goes out of the office
+    If an employee leaves the office the secondary camera detects the face and opens the door for him to leave with a voice output.
+    If the face recognition fails the system inform the same to the employee.
+    Then the Employee can use RFID or the Biometric authentication.
+
+If a group of peoples enters or exit together
+    The system tries to detect the faces and it provide the welcome or exit voice notes with the name of the persons.
+    He can use the biometric or the RFID for the access.
+    If the person enters or exit without the access the system captures that short video or images of the incident and inform the
+    same to admin or HR
+
+Unauthorised entry of a person
+    If the person crosses the line of reference without using any of the access system,
+    A notification is send to the mobile app informing the unauthorised entry.
+
+Features
+    Anti Passback
+    MQTT
+    Face Recognition - Digital Camera Interface
+    Web App for Attendance details or Interface with My time Application
+    Hardware Designs and mechanical Enclosures
+
+Face Recognition Modules
+    Video Receiving and basic processing
+    Dataset Generation Module
+    Eigenvector data management module
+    face Recognition Module
+    Recognised Data Extraction Module
+    Dataset updation using machine learning concept
+    Mask Detection
+    Face Recognition With mask and other partial coverings on the face
+    Face liveness detection to avoid scamming
+    Unauthorized Access Detection
+
+HikVision and Essl Access systems
+    These systems have in device cameras
+    This camera has a lower field of view
+    Face Anti spoofing Ensure Access Security
+    Limited number of users
+
+Face Recognition Use-cases
+    PREVENT RETAIL CRIME
+    FIND MISSING PERSONS
+    HELP THE BLIND
+    PROTECT LAW ENFORCEMENT
+    AID FORENSIC INVESTIGATIONS
+    RECOGNIZE VIPS AT SPORTING EVENTS
+    PROTECT SCHOOLS FROM THREATS
+    TRACK SCHOOL ATTENDANCE
+    VALIDATE IDENTITY AT ATMS
+    MAKE AIR TRAVEL MORE CONVENIENT
+    RECOGNIZE DRIVERS
+    CONTROL ACCESS TO SENSITIVE AREAS
+
+Face liveness Detection
+    Using Keras we are tracking the movement of eyeballs and eyelids.
+    We are using the openCV pre-trained Haar-cascade classifier for detection.
+    We are running this as a sub process along with the face recognition algorithm to avoid delays.
+    It will eliminate the spoofing using images and face masks.
+
+End devices(Visco)
+    The end device contains a Face recognition mechanism to control the door access.
+    The device also has RFID and Fingerprint as secondary access systems.
+    The face recognition system is able to capture the faces if a group of peoples access together.
+    The access system should work even when the network fails.
+    Devices should validate the access control even if the network connectivity is down using the RFID and Fingerprint.
+
+Visage Walkthrough
+    Visage is an Access control system with face recognition as its primary access and Fingerprint and RFID as secondary access system.
+    Here we have a mobile application for the administrators for controlling the system.
+    In the First phase of development  the system works on the local network where the device, server and the mobile application should
+    be on the same network.
+    Where the server to device communication is by APIs hosted on the device in the flask framework of python.
+    But in the early stages of second phase development we started implementing MQTT for Server to device communication hence that
+    network dependencies were solved.
+
+Mobile application
+    The mobile app contains a provision to Add, Delete and Edit employee details.
+    The mobile application communicates with the device to capture the RFID / FingerPrint and be able to show the animated view of the
+    finger.
+    The application provides an option to remotely access the door.
+    Application also contains a provision to add, remove and edit the details of client devices.
+    The mobile application is able to generate notifications for unauthorized entry detection.
+
+Authority response module(POD)
+    There is a separate response module for the administrator.
+    There is a push button in this device to open the door.
+    There is also an option to turn on/off the voice.
+
+Server API
+    The central server for the system should record the Access details.
+    There is a central server system through which all the access is going on.
+    The camera will be directly connected to the server.
+    The server API is responsible for all the communications happening between server and client devices.
+    The camera stream will be recorded on the server.
+    The server API is responsible for synchronizing the RFID details with the mobile application.
+    The server is able to connect multiple devices.
+
+Face recognition module
+    Here the face recognition system is used as the primary detection for the access.
+    It consists of a number of AI based algorithms.
+    The face recognition algorithm is working on the server section.
+    Here we are using a CNN based algorithm for face recognition.
+    The face recognition system captures and processes all the frames received from the camera, if a face is recognized the
+    recognized face is searched in the data set.
+
+Introduction
+    Visage is an Access control system with face recognition as its primary access and Fingerprint and RFID as secondary access system.
+    Here we have a mobile application for the administrators for controlling the system.
+
+Project Scope
+    Design and Implement new features for the Visage which includes Face dataset updation, Face liveness Detection, Cuda framework
+    implementation on the server and MQTT implementation for server to device communication and vice versa.
+
+Project Requirements
+    The face recognition dataset should be automatically updated on the system.
+    Face Scamming should be avoided.
+    Device to server communication should be secured and MQTT should be implemented.
+    Implement the CUDA framework for better efficiency of the machine learning algorithms.
+
+Assumptions
+    If an error condition occurs in the network system or on the server section, The access system will work offline mode.
+    (Only Fingerprint and RFID).
+
+Out of Scope
+    For MQTT, paid X509 certificates were not considered during the development stage.
+
+System Features and Requirements
+    CUDA Framework
+        The Cuda framework for the machine learning algorithms should be implemented.
+        Delay while receiving the video stream from the DVR should be addressed.
+        The face recognition system should work seamlessly with lagging.
+        The face recognition Algorithm should work with CNN.
+        The efficiency of the face recognition system needs to be improved.
+    MQTT Implementation
+        The Flask API on the device needs to be replaced with MQTT.
+        The Device to server communication needs to be secured.
+        A secured device Authentication method should be implemented.
+        An open source MQTT broker needs to be used.
+    Face dataset updation
+        The face Dataset needs to be updated while accessing the device.
+        The dataset images should have proper tracking.
+        All the face datas should not be updated together.
+        The dataset update interval should be configurable.
+        The Mobile application should have a provision to activate or deactivate the functionality.
+        Need to design a custom logic or algorithm to update the dataset on the preconfigured interval of time without any interactions.
+    Face liveness Detection
+        Need to avoid face scamming.
+        Design a system to detect the liveness of the face
+        A Voice response should be provided if liveness is not detected.
+        The liveness system should have a configuration in the mobile application to activate or deactivate the functionality.
+        Liveness should be configured for each device from the mobile application.
+        Need to detect the motions in the face for liveness detection.
+
+Face Recognition System Workflow
+    The face recognition system has a central configuration file which controls the activities of different modules in the system.
+    The basic processing module receives the video input from the cameras and checks the alignment and adjusts the saturation of the
+    video steam.
+    Eigenvector data management module manages the eigen datas on the pickle file such as addition of new datas, Updation of the
+    available data and removal of particular datas from the pickle file.
+    The Face Recognition Module detects the faces on the current frame and compares it with the values read from the pickle file.
+    Recognised Data Extraction Module receives the detected faces from the face recognition algorithm and sends it to the server API
+    for further processing.
+    Dataset updation module updates the face images on a preset interval of time by capturing the images of the user while accessing
+    the device.
+    Face liveness detection module avoids the face scamming and it continuously monitors the movements on the frames and if a still
+    image is detected the data is passed in to the Recognised Data Extraction Module.
+    Unauthorized Access Detection is a security feature which detects the entry of a person without proper access on the system.
+
+Technical Barriers for Installation on Development ODC
+    Need an Enclosure for the device to ensure electrical safety.
+    We may need to integrate the system with mytime application before it is installed.
+    Currently Anti Pass back is not implemented in our system, So it will creates erron on My time application.
+    The RFID scanners installed on our system is not able to read currently used ID cards in our company.
+    We have some Known issues related to the working of the face detection and with the device.
+
+High Level Scope and Requirements
+    The requirements for the Face Detection Product are explained in detail in the following sections.
+    A mobile application will also be a part of the Product to manage the users and to control the devices.
+    An Authority Response Module will also be a part of the Product for the administrative purpose.
+
+Product Requirements
+    The device should have a Face recognition mechanism to control the door access.
+    The device should have RFID and Fingerprint as secondary access systems.
+    The face recognition system should able to capture the faces if a group of peoples access together.
+    The door open time should be a configurable parameter.
+    Device should validate the access control even if the network connectivity is down using the RFID and Fingerprint.
+    The device should have the capability to receive / sync the access control data with the server.
+    There should be some Light Indications in the system to indicate the connectivity and to show the success of access control.
+    The Device should have the Bluetooth connectivity and should be capable to receive the Device Configuration such as WiFi credentials
+    and server details.
+    The camera streams should be recorded on the Server.
+    Should record the Access details in the Server.
+    Should be able to inform the unauthorized entry to the Administrator with the specification of the person.
+
+Mobile Application Requirements
+    Provision to Add, Delete and Edit employee details.
+    Should be able to communicate with the device to capture the RFID / Fingerprint.
+    Option to remotely Lock/Unlock the door.
+    Provision to add, remove and edit the details of client devices.
+    Option to view the live camera streaming.
+    Receive notifications for unauthorized entry.
+    Option to sync the RFID details with the server.
+
+Authority Response Module Requirements
+    There should be an option to turn on/off the voice
+    There should be an led notification in the device
+    There should be an option for the admin to view the camera streaming
+    There should be an option to turn on/off the device

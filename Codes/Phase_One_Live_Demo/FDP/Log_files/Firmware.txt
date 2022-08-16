@@ -1,0 +1,1613 @@
+2020-11-24 10:49:59,551 — API — INFO — Activate RFID API triggered
+2020-11-24 10:49:59,562 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:49:59,567 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:49:59,568 — API — INFO — [0]
+2020-11-24 10:49:59,568 — API — INFO — [0]
+2020-11-24 10:49:59,575 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:49:59,578 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:49:59,592 — API — ERROR — Employee Id not found
+2020-11-24 10:49:59,617 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 10:49:59,621 — API — INFO — Update RFID
+2020-11-24 10:49:59,630 — API — INFO — Update RFID
+2020-11-24 10:49:59,631 — API — ERROR — Employee Id not found
+2020-11-24 10:49:59,635 — API — INFO — Update RFID
+2020-11-24 10:49:59,638 — API — INFO — Update RFID
+2020-11-24 10:49:59,638 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 10:53:45,919 — API — INFO — Activate RFID API triggered
+2020-11-24 10:53:45,929 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:53:45,935 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:53:45,935 — API — INFO — [0]
+2020-11-24 10:53:45,936 — API — INFO — [0]
+2020-11-24 10:53:45,940 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:53:45,943 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:53:45,957 — API — ERROR — Employee Id not found
+2020-11-24 10:53:45,981 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 10:53:45,984 — API — INFO — Update RFID
+2020-11-24 10:53:45,989 — API — INFO — Update RFID
+2020-11-24 10:53:45,990 — API — ERROR — Employee Id not found
+2020-11-24 10:53:45,995 — API — INFO — Update RFID
+2020-11-24 10:53:45,999 — API — INFO — Update RFID
+2020-11-24 10:53:45,999 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 10:54:41,363 — API — INFO — Activate RFID API triggered
+2020-11-24 10:54:41,374 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:54:41,379 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:54:41,379 — API — INFO — [0]
+2020-11-24 10:54:41,380 — API — INFO — [0]
+2020-11-24 10:54:41,384 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:54:41,387 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:54:41,401 — API — ERROR — Employee Id not found
+2020-11-24 10:54:41,424 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 10:54:41,427 — API — INFO — Update RFID
+2020-11-24 10:54:41,432 — API — INFO — Update RFID
+2020-11-24 10:54:41,433 — API — ERROR — Employee Id not found
+2020-11-24 10:54:41,437 — API — INFO — Update RFID
+2020-11-24 10:54:41,441 — API — INFO — Update RFID
+2020-11-24 10:54:41,441 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 10:56:12,416 — API — INFO — Activate RFID API triggered
+2020-11-24 10:56:12,427 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:56:12,432 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:56:12,432 — API — INFO — [0]
+2020-11-24 10:56:12,433 — API — INFO — [0]
+2020-11-24 10:56:12,437 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:56:12,440 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:56:12,454 — API — ERROR — Employee Id not found
+2020-11-24 10:56:12,478 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 10:56:12,482 — API — INFO — Update RFID
+2020-11-24 10:56:12,487 — API — INFO — Update RFID
+2020-11-24 10:56:12,487 — API — ERROR — Employee Id not found
+2020-11-24 10:56:12,492 — API — INFO — Update RFID
+2020-11-24 10:56:12,496 — API — INFO — Update RFID
+2020-11-24 10:56:12,496 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 10:57:35,695 — API — INFO — Activate RFID API triggered
+2020-11-24 10:57:35,706 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:57:35,711 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:57:35,711 — API — INFO — [0]
+2020-11-24 10:57:35,711 — API — INFO — [0]
+2020-11-24 10:57:35,716 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:57:35,719 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:57:35,733 — API — ERROR — Employee Id not found
+2020-11-24 10:57:35,755 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 10:57:35,758 — API — INFO — Update RFID
+2020-11-24 10:57:35,763 — API — INFO — Update RFID
+2020-11-24 10:57:35,764 — API — ERROR — Employee Id not found
+2020-11-24 10:57:35,768 — API — INFO — Update RFID
+2020-11-24 10:57:35,772 — API — INFO — Update RFID
+2020-11-24 10:57:35,773 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 10:59:34,876 — API — INFO — Activate RFID API triggered
+2020-11-24 10:59:34,886 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:59:34,891 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:59:34,892 — API — INFO — [0]
+2020-11-24 10:59:34,892 — API — INFO — [0]
+2020-11-24 10:59:34,897 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:59:34,900 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:59:34,913 — API — ERROR — Employee Id not found
+2020-11-24 10:59:34,930 — API — ERROR — Employee Id not found
+2020-11-24 10:59:34,935 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 10:59:34,941 — API — INFO — Update RFID
+2020-11-24 10:59:34,946 — API — INFO — Update RFID
+2020-11-24 10:59:34,947 — API — ERROR — Employee Id not found
+2020-11-24 10:59:34,951 — API — INFO — Update RFID
+2020-11-24 10:59:34,955 — API — INFO — Update RFID
+2020-11-24 10:59:34,955 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 10:59:56,609 — API — INFO — Activate RFID API triggered
+2020-11-24 10:59:56,620 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:59:56,625 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:59:56,626 — API — INFO — [0]
+2020-11-24 10:59:56,626 — API — INFO — [0]
+2020-11-24 10:59:56,631 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:59:56,634 — API — INFO — RFID synchronized API triggered
+2020-11-24 10:59:56,649 — API — ERROR — Employee Id not found
+2020-11-24 10:59:56,668 — API — ERROR — Employee Id not found
+2020-11-24 10:59:56,673 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 10:59:56,677 — API — INFO — Update RFID
+2020-11-24 10:59:56,682 — API — INFO — Update RFID
+2020-11-24 10:59:56,683 — API — ERROR — Employee Id not found
+2020-11-24 10:59:56,688 — API — INFO — Update RFID
+2020-11-24 10:59:56,692 — API — INFO — Update RFID
+2020-11-24 10:59:56,692 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 11:01:01,607 — API — INFO — Activate RFID API triggered
+2020-11-24 11:01:01,618 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:01:01,623 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:01:01,624 — API — INFO — [0]
+2020-11-24 11:01:01,624 — API — INFO — [0]
+2020-11-24 11:01:01,629 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:01:01,632 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:01:01,645 — API — ERROR — Employee Id not found
+2020-11-24 11:01:01,663 — API — ERROR — Employee Id not found
+2020-11-24 11:01:01,666 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 11:01:01,670 — API — INFO — Update RFID
+2020-11-24 11:01:01,675 — API — INFO — Update RFID
+2020-11-24 11:01:01,675 — API — ERROR — Employee Id not found
+2020-11-24 11:01:01,679 — API — INFO — Update RFID
+2020-11-24 11:01:01,683 — API — INFO — Update RFID
+2020-11-24 11:01:01,683 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 11:03:21,626 — API — INFO — Activate RFID API triggered
+2020-11-24 11:03:21,636 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:03:21,641 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:03:21,642 — API — INFO — [0]
+2020-11-24 11:03:21,642 — API — INFO — [0]
+2020-11-24 11:03:21,647 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:03:21,650 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:03:21,663 — API — ERROR — Employee Id not found
+2020-11-24 11:03:21,681 — API — ERROR — Employee Id not found
+2020-11-24 11:03:21,684 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 11:03:21,688 — API — INFO — Update RFID
+2020-11-24 11:03:21,693 — API — INFO — Update RFID
+2020-11-24 11:03:21,693 — API — ERROR — Employee Id not found
+2020-11-24 11:03:21,697 — API — INFO — Update RFID
+2020-11-24 11:03:21,701 — API — INFO — Update RFID
+2020-11-24 11:03:21,701 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 11:08:25,649 — API — INFO — Activate RFID API triggered
+2020-11-24 11:08:25,658 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:08:25,662 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:08:25,663 — API — INFO — [0]
+2020-11-24 11:08:25,663 — API — INFO — [0]
+2020-11-24 11:08:25,668 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:08:25,672 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:08:25,687 — API — ERROR — Employee Id not found
+2020-11-24 11:08:25,704 — API — ERROR — Employee Id not found
+2020-11-24 11:08:25,708 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 11:08:25,711 — API — INFO — Update RFID
+2020-11-24 11:08:25,716 — API — INFO — Update RFID
+2020-11-24 11:08:25,717 — API — ERROR — Employee Id not found
+2020-11-24 11:08:25,721 — API — INFO — Update RFID
+2020-11-24 11:08:25,724 — API — INFO — Update RFID
+2020-11-24 11:08:25,724 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 11:08:42,415 — API — INFO — Activate RFID API triggered
+2020-11-24 11:08:42,425 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:08:42,430 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:08:42,431 — API — INFO — [0]
+2020-11-24 11:08:42,431 — API — INFO — [0]
+2020-11-24 11:08:42,438 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:08:42,442 — API — INFO — RFID synchronized API triggered
+2020-11-24 11:08:42,455 — API — ERROR — Employee Id not found
+2020-11-24 11:08:42,471 — API — ERROR — Employee Id not found
+2020-11-24 11:08:42,473 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 11:08:42,477 — API — INFO — Update RFID
+2020-11-24 11:08:42,482 — API — INFO — Update RFID
+2020-11-24 11:08:42,483 — API — ERROR — Employee Id not found
+2020-11-24 11:08:42,487 — API — INFO — Update RFID
+2020-11-24 11:08:42,490 — API — INFO — Update RFID
+2020-11-24 11:08:42,490 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 15:53:45,026 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 15:53:45,027 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 15:53:45,028 — Attendance — INFO — <MagicMock name='post().text' id='2997839120'>
+2020-11-24 15:53:45,029 — Attendance — ERROR — local variable 'conn' referenced before assignment
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 42, in InsertDetail
+    conn = sqlite3.connect(DB)
+sqlite3.OperationalError: unable to open database file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/Attendance.py", line 37, in Access_sucess
+    InsertDetail(sql_update_query,Attendance_data)
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 46, in InsertDetail
+    conn.commit()
+UnboundLocalError: local variable 'conn' referenced before assignment
+2020-11-24 15:53:45,075 — API — INFO — Activate RFID API triggered
+2020-11-24 15:53:45,090 — API — INFO — RFID synchronized API triggered
+2020-11-24 15:53:45,095 — API — INFO — RFID synchronized API triggered
+2020-11-24 15:53:45,095 — API — INFO — [0]
+2020-11-24 15:53:45,096 — API — INFO — [0]
+2020-11-24 15:53:45,100 — API — INFO — RFID synchronized API triggered
+2020-11-24 15:53:45,103 — API — INFO — RFID synchronized API triggered
+2020-11-24 15:53:45,117 — API — ERROR — Employee Id not found
+2020-11-24 15:53:45,133 — API — ERROR — Employee Id not found
+2020-11-24 15:53:45,136 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 15:53:45,139 — API — INFO — Update RFID
+2020-11-24 15:53:45,145 — API — INFO — Update RFID
+2020-11-24 15:53:45,145 — API — ERROR — Employee Id not found
+2020-11-24 15:53:45,149 — API — INFO — Update RFID
+2020-11-24 15:53:45,152 — API — INFO — Update RFID
+2020-11-24 15:53:45,153 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 15:57:11,521 — API — INFO — Activate RFID API triggered
+2020-11-24 15:57:11,532 — API — INFO — RFID synchronized API triggered
+2020-11-24 15:57:11,536 — API — INFO — RFID synchronized API triggered
+2020-11-24 15:57:11,537 — API — INFO — [0]
+2020-11-24 15:57:11,537 — API — INFO — [0]
+2020-11-24 15:57:11,544 — API — INFO — RFID synchronized API triggered
+2020-11-24 15:57:11,547 — API — INFO — RFID synchronized API triggered
+2020-11-24 15:57:11,563 — API — ERROR — Employee Id not found
+2020-11-24 15:57:11,582 — API — ERROR — Employee Id not found
+2020-11-24 15:57:11,584 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 15:57:11,589 — API — INFO — Update RFID
+2020-11-24 15:57:11,594 — API — INFO — Update RFID
+2020-11-24 15:57:11,595 — API — ERROR — Employee Id not found
+2020-11-24 15:57:11,599 — API — INFO — Update RFID
+2020-11-24 15:57:11,603 — API — INFO — Update RFID
+2020-11-24 15:57:11,603 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 15:58:32,090 — API — INFO — Activate RFID API triggered
+2020-11-24 15:58:32,099 — API — INFO — RFID synchronized API triggered
+2020-11-24 15:58:32,103 — API — INFO — RFID synchronized API triggered
+2020-11-24 15:58:32,104 — API — INFO — [0]
+2020-11-24 15:58:32,104 — API — INFO — [0]
+2020-11-24 15:58:32,113 — API — INFO — RFID synchronized API triggered
+2020-11-24 15:58:32,117 — API — INFO — RFID synchronized API triggered
+2020-11-24 15:58:32,130 — API — ERROR — Employee Id not found
+2020-11-24 15:58:32,146 — API — ERROR — Employee Id not found
+2020-11-24 15:58:32,149 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 15:58:32,153 — API — INFO — Update RFID
+2020-11-24 15:58:32,158 — API — INFO — Update RFID
+2020-11-24 15:58:32,159 — API — ERROR — Employee Id not found
+2020-11-24 15:58:32,163 — API — INFO — Update RFID
+2020-11-24 15:58:32,166 — API — INFO — Update RFID
+2020-11-24 15:58:32,166 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:00:18,529 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 16:00:18,530 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 16:00:18,531 — Attendance — INFO — <MagicMock name='post().text' id='2997904432'>
+2020-11-24 16:00:18,532 — Attendance — ERROR — local variable 'conn' referenced before assignment
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 42, in InsertDetail
+    conn = sqlite3.connect(DB)
+sqlite3.OperationalError: unable to open database file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/Attendance.py", line 37, in Access_sucess
+    InsertDetail(sql_update_query,Attendance_data)
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 46, in InsertDetail
+    conn.commit()
+UnboundLocalError: local variable 'conn' referenced before assignment
+2020-11-24 16:00:18,579 — API — INFO — Activate RFID API triggered
+2020-11-24 16:00:18,592 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:00:18,597 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:00:18,598 — API — INFO — [0]
+2020-11-24 16:00:18,598 — API — INFO — [0]
+2020-11-24 16:00:18,603 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:00:18,606 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:00:18,619 — API — ERROR — Employee Id not found
+2020-11-24 16:00:18,635 — API — ERROR — Employee Id not found
+2020-11-24 16:00:18,638 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:00:18,641 — API — INFO — Update RFID
+2020-11-24 16:00:18,647 — API — INFO — Update RFID
+2020-11-24 16:00:18,647 — API — ERROR — Employee Id not found
+2020-11-24 16:00:18,651 — API — INFO — Update RFID
+2020-11-24 16:00:18,654 — API — INFO — Update RFID
+2020-11-24 16:00:18,655 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:01:13,228 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 16:01:13,229 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 16:01:13,230 — Attendance — INFO — <MagicMock name='post().text' id='2997986576'>
+2020-11-24 16:01:13,231 — Attendance — ERROR — local variable 'conn' referenced before assignment
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 42, in InsertDetail
+    conn = sqlite3.connect(DB)
+sqlite3.OperationalError: unable to open database file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/Attendance.py", line 37, in Access_sucess
+    InsertDetail(sql_update_query,Attendance_data)
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 46, in InsertDetail
+    conn.commit()
+UnboundLocalError: local variable 'conn' referenced before assignment
+2020-11-24 16:01:13,274 — API — INFO — Activate RFID API triggered
+2020-11-24 16:01:13,288 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:01:13,293 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:01:13,294 — API — INFO — [0]
+2020-11-24 16:01:13,294 — API — INFO — [0]
+2020-11-24 16:01:13,299 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:01:13,302 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:01:13,316 — API — ERROR — Employee Id not found
+2020-11-24 16:01:13,332 — API — ERROR — Employee Id not found
+2020-11-24 16:01:13,335 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:01:13,338 — API — INFO — Update RFID
+2020-11-24 16:01:13,343 — API — INFO — Update RFID
+2020-11-24 16:01:13,344 — API — ERROR — Employee Id not found
+2020-11-24 16:01:13,348 — API — INFO — Update RFID
+2020-11-24 16:01:13,351 — API — INFO — Update RFID
+2020-11-24 16:01:13,351 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:01:26,567 — API — INFO — Activate RFID API triggered
+2020-11-24 16:01:26,578 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:01:26,585 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:01:26,585 — API — INFO — [0]
+2020-11-24 16:01:26,585 — API — INFO — [0]
+2020-11-24 16:01:26,593 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:01:26,597 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:01:26,612 — API — ERROR — Employee Id not found
+2020-11-24 16:01:26,629 — API — ERROR — Employee Id not found
+2020-11-24 16:01:26,632 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:01:26,635 — API — INFO — Update RFID
+2020-11-24 16:01:26,641 — API — INFO — Update RFID
+2020-11-24 16:01:26,643 — API — ERROR — Employee Id not found
+2020-11-24 16:01:26,648 — API — INFO — Update RFID
+2020-11-24 16:01:26,651 — API — INFO — Update RFID
+2020-11-24 16:01:26,652 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:11:17,485 — API — INFO — Activate RFID API triggered
+2020-11-24 16:11:17,499 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:11:17,505 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:11:17,506 — API — INFO — [0]
+2020-11-24 16:11:17,506 — API — INFO — [0]
+2020-11-24 16:11:17,511 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:11:17,514 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:11:17,531 — API — ERROR — Employee Id not found
+2020-11-24 16:11:17,552 — API — ERROR — Employee Id not found
+2020-11-24 16:11:17,555 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:11:17,560 — API — INFO — Update RFID
+2020-11-24 16:11:17,565 — API — INFO — Update RFID
+2020-11-24 16:11:17,566 — API — ERROR — Employee Id not found
+2020-11-24 16:11:17,572 — API — INFO — Update RFID
+2020-11-24 16:11:17,576 — API — INFO — Update RFID
+2020-11-24 16:11:17,576 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:11:54,689 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 16:11:54,689 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 16:11:54,691 — Attendance — INFO — <MagicMock name='post().text' id='2997732592'>
+2020-11-24 16:11:54,692 — Attendance — ERROR — local variable 'conn' referenced before assignment
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 42, in InsertDetail
+    conn = sqlite3.connect(DB)
+sqlite3.OperationalError: unable to open database file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/Attendance.py", line 37, in Access_sucess
+    InsertDetail(sql_update_query,Attendance_data)
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 46, in InsertDetail
+    conn.commit()
+UnboundLocalError: local variable 'conn' referenced before assignment
+2020-11-24 16:11:54,734 — API — INFO — Activate RFID API triggered
+2020-11-24 16:11:54,748 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:11:54,753 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:11:54,753 — API — INFO — [0]
+2020-11-24 16:11:54,754 — API — INFO — [0]
+2020-11-24 16:11:54,759 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:11:54,762 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:11:54,776 — API — ERROR — Employee Id not found
+2020-11-24 16:11:54,791 — API — ERROR — Employee Id not found
+2020-11-24 16:11:54,794 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:11:54,798 — API — INFO — Update RFID
+2020-11-24 16:11:54,803 — API — INFO — Update RFID
+2020-11-24 16:11:54,804 — API — ERROR — Employee Id not found
+2020-11-24 16:11:54,807 — API — INFO — Update RFID
+2020-11-24 16:11:54,810 — API — INFO — Update RFID
+2020-11-24 16:11:54,811 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:12:55,786 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 16:12:55,786 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 16:12:55,787 — Attendance — INFO — <MagicMock name='post().text' id='2997036144'>
+2020-11-24 16:12:55,789 — Attendance — ERROR — local variable 'conn' referenced before assignment
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 42, in InsertDetail
+    conn = sqlite3.connect(DB)
+sqlite3.OperationalError: unable to open database file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/Attendance.py", line 37, in Access_sucess
+    InsertDetail(sql_update_query,Attendance_data)
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 46, in InsertDetail
+    conn.commit()
+UnboundLocalError: local variable 'conn' referenced before assignment
+2020-11-24 16:12:55,831 — API — INFO — Activate RFID API triggered
+2020-11-24 16:12:55,845 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:12:55,849 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:12:55,850 — API — INFO — [0]
+2020-11-24 16:12:55,850 — API — INFO — [0]
+2020-11-24 16:12:55,856 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:12:55,859 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:12:55,872 — API — ERROR — Employee Id not found
+2020-11-24 16:12:55,888 — API — ERROR — Employee Id not found
+2020-11-24 16:12:55,891 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:12:55,895 — API — INFO — Update RFID
+2020-11-24 16:12:55,900 — API — INFO — Update RFID
+2020-11-24 16:12:55,900 — API — ERROR — Employee Id not found
+2020-11-24 16:12:55,904 — API — INFO — Update RFID
+2020-11-24 16:12:55,907 — API — INFO — Update RFID
+2020-11-24 16:12:55,907 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:13:40,656 — API — INFO — Activate RFID API triggered
+2020-11-24 16:13:40,666 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:13:40,670 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:13:40,671 — API — INFO — [0]
+2020-11-24 16:13:40,672 — API — INFO — [0]
+2020-11-24 16:13:40,680 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:13:40,683 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:13:40,697 — API — ERROR — Employee Id not found
+2020-11-24 16:13:40,713 — API — ERROR — Employee Id not found
+2020-11-24 16:13:40,716 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:13:40,720 — API — INFO — Update RFID
+2020-11-24 16:13:40,725 — API — INFO — Update RFID
+2020-11-24 16:13:40,725 — API — ERROR — Employee Id not found
+2020-11-24 16:13:40,729 — API — INFO — Update RFID
+2020-11-24 16:13:40,732 — API — INFO — Update RFID
+2020-11-24 16:13:40,733 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:14:04,332 — API — INFO — Activate RFID API triggered
+2020-11-24 16:14:04,342 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:14:04,346 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:14:04,346 — API — INFO — [0]
+2020-11-24 16:14:04,347 — API — INFO — [0]
+2020-11-24 16:14:04,355 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:14:04,359 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:14:04,372 — API — ERROR — Employee Id not found
+2020-11-24 16:14:04,387 — API — ERROR — Employee Id not found
+2020-11-24 16:14:04,391 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:14:04,394 — API — INFO — Update RFID
+2020-11-24 16:14:04,399 — API — INFO — Update RFID
+2020-11-24 16:14:04,400 — API — ERROR — Employee Id not found
+2020-11-24 16:14:04,404 — API — INFO — Update RFID
+2020-11-24 16:14:04,406 — API — INFO — Update RFID
+2020-11-24 16:14:04,407 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:14:28,164 — API — INFO — Activate RFID API triggered
+2020-11-24 16:14:28,174 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:14:28,177 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:14:28,178 — API — INFO — [0]
+2020-11-24 16:14:28,178 — API — INFO — [0]
+2020-11-24 16:14:28,186 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:14:28,190 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:14:28,203 — API — ERROR — Employee Id not found
+2020-11-24 16:14:28,218 — API — ERROR — Employee Id not found
+2020-11-24 16:14:28,222 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:14:28,226 — API — INFO — Update RFID
+2020-11-24 16:14:28,231 — API — INFO — Update RFID
+2020-11-24 16:14:28,231 — API — ERROR — Employee Id not found
+2020-11-24 16:14:28,235 — API — INFO — Update RFID
+2020-11-24 16:14:28,238 — API — INFO — Update RFID
+2020-11-24 16:14:28,238 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:16:17,861 — API — INFO — Activate RFID API triggered
+2020-11-24 16:16:17,871 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:16:17,875 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:16:17,875 — API — INFO — [0]
+2020-11-24 16:16:17,875 — API — INFO — [0]
+2020-11-24 16:16:17,884 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:16:17,887 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:16:17,901 — API — ERROR — Employee Id not found
+2020-11-24 16:16:17,915 — API — ERROR — Employee Id not found
+2020-11-24 16:16:17,919 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:16:17,923 — API — INFO — Update RFID
+2020-11-24 16:16:17,928 — API — INFO — Update RFID
+2020-11-24 16:16:17,928 — API — ERROR — Employee Id not found
+2020-11-24 16:16:17,932 — API — INFO — Update RFID
+2020-11-24 16:16:17,935 — API — INFO — Update RFID
+2020-11-24 16:16:17,935 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:16:44,372 — API — INFO — Activate RFID API triggered
+2020-11-24 16:16:44,382 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:16:44,386 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:16:44,386 — API — INFO — [0]
+2020-11-24 16:16:44,387 — API — INFO — [0]
+2020-11-24 16:16:44,396 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:16:44,399 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:16:44,413 — API — ERROR — Employee Id not found
+2020-11-24 16:16:44,428 — API — ERROR — Employee Id not found
+2020-11-24 16:16:44,431 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:16:44,435 — API — INFO — Update RFID
+2020-11-24 16:16:44,440 — API — INFO — Update RFID
+2020-11-24 16:16:44,441 — API — ERROR — Employee Id not found
+2020-11-24 16:16:44,445 — API — INFO — Update RFID
+2020-11-24 16:16:44,448 — API — INFO — Update RFID
+2020-11-24 16:16:44,448 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:17:08,091 — API — INFO — Activate RFID API triggered
+2020-11-24 16:17:08,101 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:17:08,105 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:17:08,106 — API — INFO — [0]
+2020-11-24 16:17:08,106 — API — INFO — [0]
+2020-11-24 16:17:08,115 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:17:08,118 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:17:08,132 — API — ERROR — Employee Id not found
+2020-11-24 16:17:08,147 — API — ERROR — Employee Id not found
+2020-11-24 16:17:08,150 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:17:08,154 — API — INFO — Update RFID
+2020-11-24 16:17:08,159 — API — INFO — Update RFID
+2020-11-24 16:17:08,160 — API — ERROR — Employee Id not found
+2020-11-24 16:17:08,164 — API — INFO — Update RFID
+2020-11-24 16:17:08,167 — API — INFO — Update RFID
+2020-11-24 16:17:08,167 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:17:44,704 — API — INFO — Activate RFID API triggered
+2020-11-24 16:17:44,714 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:17:44,718 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:17:44,718 — API — INFO — [0]
+2020-11-24 16:17:44,719 — API — INFO — [0]
+2020-11-24 16:17:44,727 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:17:44,731 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:17:44,744 — API — ERROR — Employee Id not found
+2020-11-24 16:17:44,760 — API — ERROR — Employee Id not found
+2020-11-24 16:17:44,763 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:17:44,767 — API — INFO — Update RFID
+2020-11-24 16:17:44,772 — API — INFO — Update RFID
+2020-11-24 16:17:44,772 — API — ERROR — Employee Id not found
+2020-11-24 16:17:44,776 — API — INFO — Update RFID
+2020-11-24 16:17:44,779 — API — INFO — Update RFID
+2020-11-24 16:17:44,779 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:20:09,761 — API — INFO — Activate RFID API triggered
+2020-11-24 16:20:09,771 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:20:09,775 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:20:09,775 — API — INFO — [0]
+2020-11-24 16:20:09,775 — API — INFO — [0]
+2020-11-24 16:20:09,780 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:20:09,784 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:20:09,799 — API — ERROR — Employee Id not found
+2020-11-24 16:20:09,817 — API — ERROR — Employee Id not found
+2020-11-24 16:20:09,820 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:20:09,824 — API — INFO — Update RFID
+2020-11-24 16:20:09,829 — API — INFO — Update RFID
+2020-11-24 16:20:09,830 — API — ERROR — Employee Id not found
+2020-11-24 16:20:09,833 — API — INFO — Update RFID
+2020-11-24 16:20:09,836 — API — INFO — Update RFID
+2020-11-24 16:20:09,836 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:23:19,635 — API — INFO — Activate RFID API triggered
+2020-11-24 16:23:19,645 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:23:19,648 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:23:19,649 — API — INFO — [0]
+2020-11-24 16:23:19,649 — API — INFO — [0]
+2020-11-24 16:23:19,658 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:23:19,661 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:23:19,675 — API — ERROR — Employee Id not found
+2020-11-24 16:23:19,690 — API — ERROR — Employee Id not found
+2020-11-24 16:23:19,693 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:23:19,697 — API — INFO — Update RFID
+2020-11-24 16:23:19,702 — API — INFO — Update RFID
+2020-11-24 16:23:19,703 — API — ERROR — Employee Id not found
+2020-11-24 16:23:19,707 — API — INFO — Update RFID
+2020-11-24 16:23:19,709 — API — INFO — Update RFID
+2020-11-24 16:23:19,710 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:23:50,792 — API — INFO — Activate RFID API triggered
+2020-11-24 16:23:50,802 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:23:50,806 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:23:50,807 — API — INFO — [0]
+2020-11-24 16:23:50,807 — API — INFO — [0]
+2020-11-24 16:23:50,815 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:23:50,819 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:23:50,832 — API — ERROR — Employee Id not found
+2020-11-24 16:23:50,847 — API — ERROR — Employee Id not found
+2020-11-24 16:23:50,851 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:23:50,855 — API — INFO — Update RFID
+2020-11-24 16:23:50,859 — API — INFO — Update RFID
+2020-11-24 16:23:50,860 — API — ERROR — Employee Id not found
+2020-11-24 16:23:50,864 — API — INFO — Update RFID
+2020-11-24 16:23:50,867 — API — INFO — Update RFID
+2020-11-24 16:23:50,867 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:24:07,832 — API — INFO — Activate RFID API triggered
+2020-11-24 16:24:07,842 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:24:07,846 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:24:07,846 — API — INFO — [0]
+2020-11-24 16:24:07,847 — API — INFO — [0]
+2020-11-24 16:24:07,855 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:24:07,859 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:24:07,872 — API — ERROR — Employee Id not found
+2020-11-24 16:24:07,887 — API — ERROR — Employee Id not found
+2020-11-24 16:24:07,891 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:24:07,895 — API — INFO — Update RFID
+2020-11-24 16:24:07,899 — API — INFO — Update RFID
+2020-11-24 16:24:07,900 — API — ERROR — Employee Id not found
+2020-11-24 16:24:07,904 — API — INFO — Update RFID
+2020-11-24 16:24:07,907 — API — INFO — Update RFID
+2020-11-24 16:24:07,907 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:32:49,754 — API — INFO — Activate RFID API triggered
+2020-11-24 16:32:49,764 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:32:49,768 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:32:49,768 — API — INFO — [0]
+2020-11-24 16:32:49,768 — API — INFO — [0]
+2020-11-24 16:32:49,777 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:32:49,780 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:32:49,794 — API — ERROR — Employee Id not found
+2020-11-24 16:32:49,809 — API — ERROR — Employee Id not found
+2020-11-24 16:32:49,812 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:32:49,817 — API — INFO — Update RFID
+2020-11-24 16:32:49,821 — API — INFO — Update RFID
+2020-11-24 16:32:49,822 — API — ERROR — Employee Id not found
+2020-11-24 16:32:49,826 — API — INFO — Update RFID
+2020-11-24 16:32:49,829 — API — INFO — Update RFID
+2020-11-24 16:32:49,829 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:33:06,877 — API — INFO — Activate RFID API triggered
+2020-11-24 16:33:06,887 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:33:06,891 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:33:06,892 — API — INFO — [0]
+2020-11-24 16:33:06,892 — API — INFO — [0]
+2020-11-24 16:33:06,900 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:33:06,904 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:33:06,918 — API — ERROR — Employee Id not found
+2020-11-24 16:33:06,933 — API — ERROR — Employee Id not found
+2020-11-24 16:33:06,936 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:33:06,940 — API — INFO — Update RFID
+2020-11-24 16:33:06,945 — API — INFO — Update RFID
+2020-11-24 16:33:06,946 — API — ERROR — Employee Id not found
+2020-11-24 16:33:06,950 — API — INFO — Update RFID
+2020-11-24 16:33:06,953 — API — INFO — Update RFID
+2020-11-24 16:33:06,953 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:53:15,744 — API — INFO — Activate RFID API triggered
+2020-11-24 16:53:15,754 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:53:15,758 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:53:15,759 — API — INFO — [0]
+2020-11-24 16:53:15,759 — API — INFO — [0]
+2020-11-24 16:53:15,768 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:53:15,771 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:53:15,786 — API — ERROR — Employee Id not found
+2020-11-24 16:53:15,802 — API — ERROR — Employee Id not found
+2020-11-24 16:53:15,805 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:53:15,809 — API — INFO — Update RFID
+2020-11-24 16:53:15,814 — API — INFO — Update RFID
+2020-11-24 16:53:15,815 — API — ERROR — Employee Id not found
+2020-11-24 16:53:15,819 — API — INFO — Update RFID
+2020-11-24 16:53:15,822 — API — INFO — Update RFID
+2020-11-24 16:53:15,822 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:53:30,437 — API — INFO — Activate RFID API triggered
+2020-11-24 16:53:30,449 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:53:30,458 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:53:30,458 — API — INFO — [0]
+2020-11-24 16:53:30,459 — API — INFO — [0]
+2020-11-24 16:53:30,467 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:53:30,470 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:53:30,487 — API — ERROR — Employee Id not found
+2020-11-24 16:53:30,503 — API — ERROR — Employee Id not found
+2020-11-24 16:53:30,506 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:53:30,509 — API — INFO — Update RFID
+2020-11-24 16:53:30,515 — API — INFO — Update RFID
+2020-11-24 16:53:30,516 — API — ERROR — Employee Id not found
+2020-11-24 16:53:30,521 — API — INFO — Update RFID
+2020-11-24 16:53:30,524 — API — INFO — Update RFID
+2020-11-24 16:53:30,524 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:53:52,624 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 16:53:52,625 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 16:53:52,626 — Attendance — INFO — <MagicMock name='post().text' id='2997720240'>
+2020-11-24 16:53:52,627 — Attendance — ERROR — local variable 'conn' referenced before assignment
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 42, in InsertDetail
+    conn = sqlite3.connect(DB)
+sqlite3.OperationalError: unable to open database file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/Attendance.py", line 37, in Access_sucess
+    InsertDetail(sql_update_query,Attendance_data)
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 46, in InsertDetail
+    conn.commit()
+UnboundLocalError: local variable 'conn' referenced before assignment
+2020-11-24 16:53:52,672 — API — INFO — Activate RFID API triggered
+2020-11-24 16:53:52,686 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:53:52,691 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:53:52,692 — API — INFO — [0]
+2020-11-24 16:53:52,692 — API — INFO — [0]
+2020-11-24 16:53:52,697 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:53:52,700 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:53:52,714 — API — ERROR — Employee Id not found
+2020-11-24 16:53:52,730 — API — ERROR — Employee Id not found
+2020-11-24 16:53:52,733 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:53:52,737 — API — INFO — Update RFID
+2020-11-24 16:53:52,742 — API — INFO — Update RFID
+2020-11-24 16:53:52,743 — API — ERROR — Employee Id not found
+2020-11-24 16:53:52,746 — API — INFO — Update RFID
+2020-11-24 16:53:52,750 — API — INFO — Update RFID
+2020-11-24 16:53:52,750 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:54:16,776 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 16:54:16,776 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 16:54:16,777 — Attendance — INFO — <MagicMock name='post().text' id='2997539824'>
+2020-11-24 16:54:16,779 — Attendance — ERROR — local variable 'conn' referenced before assignment
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 42, in InsertDetail
+    conn = sqlite3.connect(DB)
+sqlite3.OperationalError: unable to open database file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/Attendance.py", line 37, in Access_sucess
+    InsertDetail(sql_update_query,Attendance_data)
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 46, in InsertDetail
+    conn.commit()
+UnboundLocalError: local variable 'conn' referenced before assignment
+2020-11-24 16:54:16,826 — API — INFO — Activate RFID API triggered
+2020-11-24 16:54:16,840 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:54:16,845 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:54:16,846 — API — INFO — [0]
+2020-11-24 16:54:16,846 — API — INFO — [0]
+2020-11-24 16:54:16,851 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:54:16,854 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:54:16,869 — API — ERROR — Employee Id not found
+2020-11-24 16:54:16,885 — API — ERROR — Employee Id not found
+2020-11-24 16:54:16,887 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:54:16,892 — API — INFO — Update RFID
+2020-11-24 16:54:16,897 — API — INFO — Update RFID
+2020-11-24 16:54:16,898 — API — ERROR — Employee Id not found
+2020-11-24 16:54:16,902 — API — INFO — Update RFID
+2020-11-24 16:54:16,907 — API — INFO — Update RFID
+2020-11-24 16:54:16,907 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:58:02,654 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 16:58:02,654 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 16:58:02,656 — Attendance — INFO — <MagicMock name='post().text' id='2997969968'>
+2020-11-24 16:58:02,657 — Attendance — ERROR — local variable 'conn' referenced before assignment
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 42, in InsertDetail
+    conn = sqlite3.connect(DB)
+sqlite3.OperationalError: unable to open database file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/Attendance.py", line 37, in Access_sucess
+    InsertDetail(sql_update_query,Attendance_data)
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 46, in InsertDetail
+    conn.commit()
+UnboundLocalError: local variable 'conn' referenced before assignment
+2020-11-24 16:58:02,699 — API — INFO — Activate RFID API triggered
+2020-11-24 16:58:02,713 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:58:02,718 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:58:02,719 — API — INFO — [0]
+2020-11-24 16:58:02,719 — API — INFO — [0]
+2020-11-24 16:58:02,725 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:58:02,728 — API — INFO — RFID synchronized API triggered
+2020-11-24 16:58:02,746 — API — ERROR — Employee Id not found
+2020-11-24 16:58:02,764 — API — ERROR — Employee Id not found
+2020-11-24 16:58:02,768 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 16:58:02,773 — API — INFO — Update RFID
+2020-11-24 16:58:02,782 — API — INFO — Update RFID
+2020-11-24 16:58:02,784 — API — ERROR — Employee Id not found
+2020-11-24 16:58:02,789 — API — INFO — Update RFID
+2020-11-24 16:58:02,793 — API — INFO — Update RFID
+2020-11-24 16:58:02,794 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:02:58,051 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 17:02:58,051 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 17:02:58,053 — Attendance — INFO — <MagicMock name='post().text' id='2997957808'>
+2020-11-24 17:02:58,054 — Attendance — ERROR — local variable 'conn' referenced before assignment
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 42, in InsertDetail
+    conn = sqlite3.connect(DB)
+sqlite3.OperationalError: unable to open database file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/Attendance.py", line 37, in Access_sucess
+    InsertDetail(sql_update_query,Attendance_data)
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 46, in InsertDetail
+    conn.commit()
+UnboundLocalError: local variable 'conn' referenced before assignment
+2020-11-24 17:02:58,103 — API — INFO — Activate RFID API triggered
+2020-11-24 17:02:58,117 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:02:58,122 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:02:58,123 — API — INFO — [0]
+2020-11-24 17:02:58,123 — API — INFO — [0]
+2020-11-24 17:02:58,127 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:02:58,130 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:02:58,146 — API — ERROR — Employee Id not found
+2020-11-24 17:02:58,162 — API — ERROR — Employee Id not found
+2020-11-24 17:02:58,165 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:02:58,169 — API — INFO — Update RFID
+2020-11-24 17:02:58,175 — API — INFO — Update RFID
+2020-11-24 17:02:58,175 — API — ERROR — Employee Id not found
+2020-11-24 17:02:58,181 — API — INFO — Update RFID
+2020-11-24 17:02:58,184 — API — INFO — Update RFID
+2020-11-24 17:02:58,184 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:03:28,484 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 17:03:28,484 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 17:03:28,485 — Attendance — INFO — <MagicMock name='post().text' id='2997175344'>
+2020-11-24 17:03:28,487 — Attendance — ERROR — local variable 'conn' referenced before assignment
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 42, in InsertDetail
+    conn = sqlite3.connect(DB)
+sqlite3.OperationalError: unable to open database file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/Attendance.py", line 37, in Access_sucess
+    InsertDetail(sql_update_query,Attendance_data)
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 46, in InsertDetail
+    conn.commit()
+UnboundLocalError: local variable 'conn' referenced before assignment
+2020-11-24 17:03:28,538 — API — INFO — Activate RFID API triggered
+2020-11-24 17:03:28,549 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:03:28,554 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:03:28,554 — API — INFO — [0]
+2020-11-24 17:03:28,554 — API — INFO — [0]
+2020-11-24 17:03:28,559 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:03:28,562 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:03:28,577 — API — ERROR — Employee Id not found
+2020-11-24 17:03:28,593 — API — ERROR — Employee Id not found
+2020-11-24 17:03:28,595 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:03:28,599 — API — INFO — Update RFID
+2020-11-24 17:03:28,605 — API — INFO — Update RFID
+2020-11-24 17:03:28,605 — API — ERROR — Employee Id not found
+2020-11-24 17:03:28,609 — API — INFO — Update RFID
+2020-11-24 17:03:28,613 — API — INFO — Update RFID
+2020-11-24 17:03:28,614 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:04:50,245 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 17:04:50,245 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 17:04:50,246 — Attendance — ERROR — 'str' object has no attribute 'text'
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/Attendance.py", line 33, in Access_sucess
+    Api_response = response.text
+AttributeError: 'str' object has no attribute 'text'
+2020-11-24 17:04:50,293 — API — INFO — Activate RFID API triggered
+2020-11-24 17:04:50,304 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:04:50,308 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:04:50,309 — API — INFO — [0]
+2020-11-24 17:04:50,309 — API — INFO — [0]
+2020-11-24 17:04:50,318 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:04:50,321 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:04:50,336 — API — ERROR — Employee Id not found
+2020-11-24 17:04:50,352 — API — ERROR — Employee Id not found
+2020-11-24 17:04:50,355 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:04:50,359 — API — INFO — Update RFID
+2020-11-24 17:04:50,364 — API — INFO — Update RFID
+2020-11-24 17:04:50,365 — API — ERROR — Employee Id not found
+2020-11-24 17:04:50,369 — API — INFO — Update RFID
+2020-11-24 17:04:50,373 — API — INFO — Update RFID
+2020-11-24 17:04:50,373 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:05:29,579 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 17:05:29,584 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 17:05:29,586 — Attendance — INFO — <MagicMock name='post().text' id='2997499056'>
+2020-11-24 17:05:29,587 — Attendance — ERROR — local variable 'conn' referenced before assignment
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 42, in InsertDetail
+    conn = sqlite3.connect(DB)
+sqlite3.OperationalError: unable to open database file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/Attendance.py", line 37, in Access_sucess
+    InsertDetail(sql_update_query,Attendance_data)
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 46, in InsertDetail
+    conn.commit()
+UnboundLocalError: local variable 'conn' referenced before assignment
+2020-11-24 17:05:29,639 — API — INFO — Activate RFID API triggered
+2020-11-24 17:05:29,652 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:05:29,656 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:05:29,657 — API — INFO — [0]
+2020-11-24 17:05:29,657 — API — INFO — [0]
+2020-11-24 17:05:29,661 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:05:29,665 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:05:29,681 — API — ERROR — Employee Id not found
+2020-11-24 17:05:29,695 — API — ERROR — Employee Id not found
+2020-11-24 17:05:29,698 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:05:29,702 — API — INFO — Update RFID
+2020-11-24 17:05:29,709 — API — INFO — Update RFID
+2020-11-24 17:05:29,710 — API — ERROR — Employee Id not found
+2020-11-24 17:05:29,714 — API — INFO — Update RFID
+2020-11-24 17:05:29,717 — API — INFO — Update RFID
+2020-11-24 17:05:29,717 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:06:52,944 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 17:06:52,944 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 17:06:52,945 — Attendance — INFO — <MagicMock name='post().text' id='2997711984'>
+2020-11-24 17:06:52,946 — Attendance — ERROR — local variable 'conn' referenced before assignment
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 42, in InsertDetail
+    conn = sqlite3.connect(DB)
+sqlite3.OperationalError: unable to open database file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/Attendance.py", line 37, in Access_sucess
+    InsertDetail(sql_update_query,Attendance_data)
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 46, in InsertDetail
+    conn.commit()
+UnboundLocalError: local variable 'conn' referenced before assignment
+2020-11-24 17:06:52,986 — API — INFO — Activate RFID API triggered
+2020-11-24 17:06:53,000 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:06:53,004 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:06:53,005 — API — INFO — [0]
+2020-11-24 17:06:53,005 — API — INFO — [0]
+2020-11-24 17:06:53,011 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:06:53,014 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:06:53,028 — API — ERROR — Employee Id not found
+2020-11-24 17:06:53,044 — API — ERROR — Employee Id not found
+2020-11-24 17:06:53,046 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:06:53,050 — API — INFO — Update RFID
+2020-11-24 17:06:53,055 — API — INFO — Update RFID
+2020-11-24 17:06:53,056 — API — ERROR — Employee Id not found
+2020-11-24 17:06:53,059 — API — INFO — Update RFID
+2020-11-24 17:06:53,062 — API — INFO — Update RFID
+2020-11-24 17:06:53,063 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:07:28,838 — API — INFO — Activate RFID API triggered
+2020-11-24 17:07:28,848 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:07:28,851 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:07:28,852 — API — INFO — [0]
+2020-11-24 17:07:28,852 — API — INFO — [0]
+2020-11-24 17:07:28,860 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:07:28,864 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:07:28,878 — API — ERROR — Employee Id not found
+2020-11-24 17:07:28,892 — API — ERROR — Employee Id not found
+2020-11-24 17:07:28,896 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:07:28,900 — API — INFO — Update RFID
+2020-11-24 17:07:28,905 — API — INFO — Update RFID
+2020-11-24 17:07:28,906 — API — ERROR — Employee Id not found
+2020-11-24 17:07:28,909 — API — INFO — Update RFID
+2020-11-24 17:07:28,912 — API — INFO — Update RFID
+2020-11-24 17:07:28,913 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:10:06,357 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 17:10:06,357 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 17:10:06,358 — Attendance — INFO — <MagicMock name='post().text' id='2997761040'>
+2020-11-24 17:10:06,359 — Attendance — ERROR — local variable 'conn' referenced before assignment
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 42, in InsertDetail
+    conn = sqlite3.connect(DB)
+sqlite3.OperationalError: unable to open database file
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/Attendance.py", line 37, in Access_sucess
+    InsertDetail(sql_update_query,Attendance_data)
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/DB_Access.py", line 46, in InsertDetail
+    conn.commit()
+UnboundLocalError: local variable 'conn' referenced before assignment
+2020-11-24 17:10:06,401 — API — INFO — Activate RFID API triggered
+2020-11-24 17:10:06,415 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:10:06,420 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:10:06,420 — API — INFO — [0]
+2020-11-24 17:10:06,421 — API — INFO — [0]
+2020-11-24 17:10:06,426 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:10:06,429 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:10:06,443 — API — ERROR — Employee Id not found
+2020-11-24 17:10:06,459 — API — ERROR — Employee Id not found
+2020-11-24 17:10:06,462 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:10:06,466 — API — INFO — Update RFID
+2020-11-24 17:10:06,471 — API — INFO — Update RFID
+2020-11-24 17:10:06,471 — API — ERROR — Employee Id not found
+2020-11-24 17:10:06,475 — API — INFO — Update RFID
+2020-11-24 17:10:06,478 — API — INFO — Update RFID
+2020-11-24 17:10:06,478 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:11:41,839 — API — INFO — Activate RFID API triggered
+2020-11-24 17:11:41,854 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:11:41,860 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:11:41,860 — API — INFO — [0]
+2020-11-24 17:11:41,860 — API — INFO — [0]
+2020-11-24 17:11:41,868 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:11:41,871 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:11:41,887 — API — ERROR — Employee Id not found
+2020-11-24 17:11:41,904 — API — ERROR — Employee Id not found
+2020-11-24 17:11:41,907 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:11:41,911 — API — INFO — Update RFID
+2020-11-24 17:11:41,918 — API — INFO — Update RFID
+2020-11-24 17:11:41,919 — API — ERROR — Employee Id not found
+2020-11-24 17:11:41,925 — API — INFO — Update RFID
+2020-11-24 17:11:41,928 — API — INFO — Update RFID
+2020-11-24 17:11:41,928 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:12:06,546 — API — INFO — Activate RFID API triggered
+2020-11-24 17:12:06,557 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:12:06,561 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:12:06,561 — API — INFO — [0]
+2020-11-24 17:12:06,562 — API — INFO — [0]
+2020-11-24 17:12:06,569 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:12:06,574 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:12:06,588 — API — ERROR — Employee Id not found
+2020-11-24 17:12:06,604 — API — ERROR — Employee Id not found
+2020-11-24 17:12:06,608 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:12:06,612 — API — INFO — Update RFID
+2020-11-24 17:12:06,617 — API — INFO — Update RFID
+2020-11-24 17:12:06,617 — API — ERROR — Employee Id not found
+2020-11-24 17:12:06,621 — API — INFO — Update RFID
+2020-11-24 17:12:06,624 — API — INFO — Update RFID
+2020-11-24 17:12:06,625 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:12:20,377 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 17:12:20,377 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 17:12:20,379 — Attendance — INFO — <MagicMock name='post().text' id='2997077232'>
+2020-11-24 17:12:20,380 — Attendance — INFO — Sucess
+2020-11-24 17:12:20,429 — API — INFO — Activate RFID API triggered
+2020-11-24 17:12:20,439 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:12:20,444 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:12:20,445 — API — INFO — [0]
+2020-11-24 17:12:20,445 — API — INFO — [0]
+2020-11-24 17:12:20,450 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:12:20,453 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:12:20,468 — API — ERROR — Employee Id not found
+2020-11-24 17:12:20,484 — API — ERROR — Employee Id not found
+2020-11-24 17:12:20,487 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:12:20,491 — API — INFO — Update RFID
+2020-11-24 17:12:20,496 — API — INFO — Update RFID
+2020-11-24 17:12:20,497 — API — ERROR — Employee Id not found
+2020-11-24 17:12:20,501 — API — INFO — Update RFID
+2020-11-24 17:12:20,506 — API — INFO — Update RFID
+2020-11-24 17:12:20,506 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:12:47,624 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 17:12:47,625 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 17:12:47,626 — Attendance — INFO — <MagicMock name='post().text' id='2997494896'>
+2020-11-24 17:12:47,627 — Attendance — INFO — Sucess
+2020-11-24 17:12:47,675 — API — INFO — Activate RFID API triggered
+2020-11-24 17:12:47,687 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:12:47,694 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:12:47,694 — API — INFO — [0]
+2020-11-24 17:12:47,694 — API — INFO — [0]
+2020-11-24 17:12:47,699 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:12:47,702 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:12:47,719 — API — ERROR — Employee Id not found
+2020-11-24 17:12:47,735 — API — ERROR — Employee Id not found
+2020-11-24 17:12:47,738 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:12:47,742 — API — INFO — Update RFID
+2020-11-24 17:12:47,748 — API — INFO — Update RFID
+2020-11-24 17:12:47,749 — API — ERROR — Employee Id not found
+2020-11-24 17:12:47,754 — API — INFO — Update RFID
+2020-11-24 17:12:47,758 — API — INFO — Update RFID
+2020-11-24 17:12:47,759 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:13:43,593 — API — INFO — Activate RFID API triggered
+2020-11-24 17:13:43,605 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:13:43,611 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:13:43,612 — API — INFO — [0]
+2020-11-24 17:13:43,612 — API — INFO — [0]
+2020-11-24 17:13:43,616 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:13:43,619 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:13:43,634 — API — ERROR — Employee Id not found
+2020-11-24 17:13:43,653 — API — ERROR — Employee Id not found
+2020-11-24 17:13:43,656 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:13:43,663 — API — INFO — Update RFID
+2020-11-24 17:13:43,669 — API — INFO — Update RFID
+2020-11-24 17:13:43,670 — API — ERROR — Employee Id not found
+2020-11-24 17:13:43,675 — API — INFO — Update RFID
+2020-11-24 17:13:43,678 — API — INFO — Update RFID
+2020-11-24 17:13:43,679 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:13:55,197 — API — INFO — Activate RFID API triggered
+2020-11-24 17:13:55,213 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:13:55,217 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:13:55,218 — API — INFO — [0]
+2020-11-24 17:13:55,218 — API — INFO — [0]
+2020-11-24 17:13:55,224 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:13:55,227 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:13:55,246 — API — ERROR — Employee Id not found
+2020-11-24 17:13:55,261 — API — ERROR — Employee Id not found
+2020-11-24 17:13:55,264 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:13:55,271 — API — INFO — Update RFID
+2020-11-24 17:13:55,277 — API — INFO — Update RFID
+2020-11-24 17:13:55,278 — API — ERROR — Employee Id not found
+2020-11-24 17:13:55,282 — API — INFO — Update RFID
+2020-11-24 17:13:55,285 — API — INFO — Update RFID
+2020-11-24 17:13:55,285 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:14:22,604 — API — INFO — Activate RFID API triggered
+2020-11-24 17:14:22,615 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:14:22,620 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:14:22,621 — API — INFO — [0]
+2020-11-24 17:14:22,621 — API — INFO — [0]
+2020-11-24 17:14:22,626 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:14:22,629 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:14:22,644 — API — ERROR — Employee Id not found
+2020-11-24 17:14:22,660 — API — ERROR — Employee Id not found
+2020-11-24 17:14:22,663 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:14:22,669 — API — INFO — Update RFID
+2020-11-24 17:14:22,674 — API — INFO — Update RFID
+2020-11-24 17:14:22,675 — API — ERROR — Employee Id not found
+2020-11-24 17:14:22,680 — API — INFO — Update RFID
+2020-11-24 17:14:22,684 — API — INFO — Update RFID
+2020-11-24 17:14:22,684 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:14:42,443 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 17:14:42,444 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 17:14:42,450 — Attendance — INFO — <MagicMock name='post().text' id='2997970224'>
+2020-11-24 17:14:42,452 — Attendance — INFO — Sucess
+2020-11-24 17:14:42,502 — API — INFO — Activate RFID API triggered
+2020-11-24 17:14:42,512 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:14:42,517 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:14:42,517 — API — INFO — [0]
+2020-11-24 17:14:42,517 — API — INFO — [0]
+2020-11-24 17:14:42,522 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:14:42,525 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:14:42,541 — API — ERROR — Employee Id not found
+2020-11-24 17:14:42,556 — API — ERROR — Employee Id not found
+2020-11-24 17:14:42,559 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:14:42,562 — API — INFO — Update RFID
+2020-11-24 17:14:42,568 — API — INFO — Update RFID
+2020-11-24 17:14:42,569 — API — ERROR — Employee Id not found
+2020-11-24 17:14:42,574 — API — INFO — Update RFID
+2020-11-24 17:14:42,577 — API — INFO — Update RFID
+2020-11-24 17:14:42,577 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:20:39,108 — API — INFO — Activate RFID API triggered
+2020-11-24 17:20:39,120 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:20:39,125 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:20:39,125 — API — INFO — [0]
+2020-11-24 17:20:39,126 — API — INFO — [0]
+2020-11-24 17:20:39,131 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:20:39,134 — API — INFO — RFID synchronized API triggered
+2020-11-24 17:20:39,150 — API — ERROR — Employee Id not found
+2020-11-24 17:20:39,168 — API — ERROR — Employee Id not found
+2020-11-24 17:20:39,172 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 17:20:39,176 — API — INFO — Update RFID
+2020-11-24 17:20:39,182 — API — INFO — Update RFID
+2020-11-24 17:20:39,183 — API — ERROR — Employee Id not found
+2020-11-24 17:20:39,189 — API — INFO — Update RFID
+2020-11-24 17:20:39,192 — API — INFO — Update RFID
+2020-11-24 17:20:39,192 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:47:35,487 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 18:47:35,490 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 18:47:35,492 — Attendance — INFO — <MagicMock name='post().text' id='2997036176'>
+2020-11-24 18:47:35,493 — Attendance — INFO — Sucess
+2020-11-24 18:47:35,546 — API — INFO — Activate RFID API triggered
+2020-11-24 18:47:35,557 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:47:35,561 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:47:35,562 — API — INFO — [0]
+2020-11-24 18:47:35,562 — API — INFO — [0]
+2020-11-24 18:47:35,567 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:47:35,570 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:47:35,584 — API — ERROR — Employee Id not found
+2020-11-24 18:47:35,598 — API — ERROR — Employee Id not found
+2020-11-24 18:47:35,601 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:47:35,604 — API — INFO — Update RFID
+2020-11-24 18:47:35,611 — API — INFO — Update RFID
+2020-11-24 18:47:35,612 — API — ERROR — Employee Id not found
+2020-11-24 18:47:35,616 — API — INFO — Update RFID
+2020-11-24 18:47:35,619 — API — INFO — Update RFID
+2020-11-24 18:47:35,620 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:48:04,126 — RFID Access — ERROR — cannot unpack non-iterable int object
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/RFID_Access.py", line 47, in RFIDAccess
+    id, text = RFID_Reader.read()
+TypeError: cannot unpack non-iterable int object
+2020-11-24 18:48:04,134 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 18:48:04,135 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 18:48:04,136 — Attendance — INFO — <MagicMock name='post().text' id='2996710704'>
+2020-11-24 18:48:04,138 — Attendance — INFO — Sucess
+2020-11-24 18:48:04,190 — API — INFO — Activate RFID API triggered
+2020-11-24 18:48:04,200 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:48:04,205 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:48:04,205 — API — INFO — [0]
+2020-11-24 18:48:04,205 — API — INFO — [0]
+2020-11-24 18:48:04,210 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:48:04,214 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:48:04,229 — API — ERROR — Employee Id not found
+2020-11-24 18:48:04,246 — API — ERROR — Employee Id not found
+2020-11-24 18:48:04,249 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:48:04,255 — API — INFO — Update RFID
+2020-11-24 18:48:04,261 — API — INFO — Update RFID
+2020-11-24 18:48:04,262 — API — ERROR — Employee Id not found
+2020-11-24 18:48:04,266 — API — INFO — Update RFID
+2020-11-24 18:48:04,269 — API — INFO — Update RFID
+2020-11-24 18:48:04,269 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:48:39,579 — RFID Access — ERROR — too many values to unpack (expected 2)
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/RFID_Access.py", line 47, in RFIDAccess
+    id, text = RFID_Reader.read()
+ValueError: too many values to unpack (expected 2)
+2020-11-24 18:48:39,583 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 18:48:39,583 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 18:48:39,585 — Attendance — INFO — <MagicMock name='post().text' id='2996874544'>
+2020-11-24 18:48:39,586 — Attendance — INFO — Sucess
+2020-11-24 18:48:39,634 — API — INFO — Activate RFID API triggered
+2020-11-24 18:48:39,647 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:48:39,651 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:48:39,652 — API — INFO — [0]
+2020-11-24 18:48:39,652 — API — INFO — [0]
+2020-11-24 18:48:39,657 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:48:39,660 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:48:39,677 — API — ERROR — Employee Id not found
+2020-11-24 18:48:39,691 — API — ERROR — Employee Id not found
+2020-11-24 18:48:39,694 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:48:39,698 — API — INFO — Update RFID
+2020-11-24 18:48:39,704 — API — INFO — Update RFID
+2020-11-24 18:48:39,705 — API — ERROR — Employee Id not found
+2020-11-24 18:48:39,711 — API — INFO — Update RFID
+2020-11-24 18:48:39,714 — API — INFO — Update RFID
+2020-11-24 18:48:39,715 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:49:08,032 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 18:49:08,032 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 18:49:08,033 — Attendance — INFO — <MagicMock name='post().text' id='2996712784'>
+2020-11-24 18:49:08,034 — Attendance — INFO — Sucess
+2020-11-24 18:49:08,080 — API — INFO — Activate RFID API triggered
+2020-11-24 18:49:08,093 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:49:08,099 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:49:08,099 — API — INFO — [0]
+2020-11-24 18:49:08,099 — API — INFO — [0]
+2020-11-24 18:49:08,104 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:49:08,107 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:49:08,123 — API — ERROR — Employee Id not found
+2020-11-24 18:49:08,140 — API — ERROR — Employee Id not found
+2020-11-24 18:49:08,143 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:49:08,148 — API — INFO — Update RFID
+2020-11-24 18:49:08,153 — API — INFO — Update RFID
+2020-11-24 18:49:08,154 — API — ERROR — Employee Id not found
+2020-11-24 18:49:08,159 — API — INFO — Update RFID
+2020-11-24 18:49:08,163 — API — INFO — Update RFID
+2020-11-24 18:49:08,164 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:49:28,612 — RFID Access — INFO — 123456
+2020-11-24 18:49:28,617 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 18:49:28,617 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 18:49:28,618 — Attendance — INFO — <MagicMock name='post().text' id='2987280080'>
+2020-11-24 18:49:28,619 — Attendance — INFO — Sucess
+2020-11-24 18:49:28,670 — API — INFO — Activate RFID API triggered
+2020-11-24 18:49:28,682 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:49:28,687 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:49:28,688 — API — INFO — [0]
+2020-11-24 18:49:28,688 — API — INFO — [0]
+2020-11-24 18:49:28,693 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:49:28,697 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:49:28,711 — API — ERROR — Employee Id not found
+2020-11-24 18:49:28,729 — API — ERROR — Employee Id not found
+2020-11-24 18:49:28,732 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:49:28,736 — API — INFO — Update RFID
+2020-11-24 18:49:28,742 — API — INFO — Update RFID
+2020-11-24 18:49:28,743 — API — ERROR — Employee Id not found
+2020-11-24 18:49:28,748 — API — INFO — Update RFID
+2020-11-24 18:49:28,752 — API — INFO — Update RFID
+2020-11-24 18:49:28,752 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:49:47,846 — RFID Access — INFO — 123456
+2020-11-24 18:49:47,849 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 18:49:47,849 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 18:49:47,850 — Attendance — INFO — <MagicMock name='post().text' id='2997668496'>
+2020-11-24 18:49:47,852 — Attendance — INFO — Sucess
+2020-11-24 18:49:47,898 — API — INFO — Activate RFID API triggered
+2020-11-24 18:49:47,910 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:49:47,914 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:49:47,915 — API — INFO — [0]
+2020-11-24 18:49:47,915 — API — INFO — [0]
+2020-11-24 18:49:47,921 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:49:47,925 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:49:47,940 — API — ERROR — Employee Id not found
+2020-11-24 18:49:47,955 — API — ERROR — Employee Id not found
+2020-11-24 18:49:47,958 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:49:47,962 — API — INFO — Update RFID
+2020-11-24 18:49:47,967 — API — INFO — Update RFID
+2020-11-24 18:49:47,968 — API — ERROR — Employee Id not found
+2020-11-24 18:49:47,973 — API — INFO — Update RFID
+2020-11-24 18:49:47,976 — API — INFO — Update RFID
+2020-11-24 18:49:47,977 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:52:24,030 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 18:52:24,030 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 18:52:24,031 — Attendance — INFO — <MagicMock name='post().text' id='2998007408'>
+2020-11-24 18:52:24,033 — Attendance — INFO — Sucess
+2020-11-24 18:52:24,078 — API — INFO — Activate RFID API triggered
+2020-11-24 18:52:24,092 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:52:24,097 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:52:24,097 — API — INFO — [0]
+2020-11-24 18:52:24,098 — API — INFO — [0]
+2020-11-24 18:52:24,102 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:52:24,106 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:52:24,119 — API — ERROR — Employee Id not found
+2020-11-24 18:52:24,136 — API — ERROR — Employee Id not found
+2020-11-24 18:52:24,139 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:52:24,143 — API — INFO — Update RFID
+2020-11-24 18:52:24,148 — API — INFO — Update RFID
+2020-11-24 18:52:24,149 — API — ERROR — Employee Id not found
+2020-11-24 18:52:24,154 — API — INFO — Update RFID
+2020-11-24 18:52:24,158 — API — INFO — Update RFID
+2020-11-24 18:52:24,158 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:52:38,494 — RFID Access — INFO — 123456
+2020-11-24 18:52:38,497 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 18:52:38,497 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 18:52:38,498 — Attendance — INFO — <MagicMock name='post().text' id='2998083088'>
+2020-11-24 18:52:38,500 — Attendance — INFO — Sucess
+2020-11-24 18:52:38,547 — API — INFO — Activate RFID API triggered
+2020-11-24 18:52:38,559 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:52:38,563 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:52:38,563 — API — INFO — [0]
+2020-11-24 18:52:38,564 — API — INFO — [0]
+2020-11-24 18:52:38,569 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:52:38,573 — API — INFO — RFID synchronized API triggered
+2020-11-24 18:52:38,589 — API — ERROR — Employee Id not found
+2020-11-24 18:52:38,604 — API — ERROR — Employee Id not found
+2020-11-24 18:52:38,607 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 18:52:38,611 — API — INFO — Update RFID
+2020-11-24 18:52:38,617 — API — INFO — Update RFID
+2020-11-24 18:52:38,618 — API — ERROR — Employee Id not found
+2020-11-24 18:52:38,623 — API — INFO — Update RFID
+2020-11-24 18:52:38,626 — API — INFO — Update RFID
+2020-11-24 18:52:38,627 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 20:52:17,623 — RFID Access — INFO — 123456
+2020-11-24 20:52:17,629 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 20:52:17,629 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 20:52:17,630 — Attendance — INFO — <MagicMock name='post().text' id='2997835728'>
+2020-11-24 20:52:17,632 — Attendance — INFO — Sucess
+2020-11-24 20:52:17,684 — API — INFO — Activate RFID API triggered
+2020-11-24 20:52:17,694 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:52:17,698 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:52:17,699 — API — INFO — [0]
+2020-11-24 20:52:17,699 — API — INFO — [0]
+2020-11-24 20:52:17,704 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:52:17,707 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:52:17,723 — API — ERROR — Employee Id not found
+2020-11-24 20:52:17,736 — API — ERROR — Employee Id not found
+2020-11-24 20:52:17,739 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 20:52:17,743 — API — INFO — Update RFID
+2020-11-24 20:52:17,749 — API — INFO — Update RFID
+2020-11-24 20:52:17,750 — API — ERROR — Employee Id not found
+2020-11-24 20:52:17,754 — API — INFO — Update RFID
+2020-11-24 20:52:17,756 — API — INFO — Update RFID
+2020-11-24 20:52:17,757 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 20:53:00,795 — RFID Access — INFO — 123456
+2020-11-24 20:53:00,797 — RFID Access — INFO — 1
+2020-11-24 20:53:00,798 — RFID Access — INFO — 1
+2020-11-24 20:53:00,798 — RFID Access — INFO — 1
+2020-11-24 20:53:00,798 — RFID Access — INFO — Your Access is revoked
+2020-11-24 20:53:01,614 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 20:53:01,615 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 20:53:01,617 — Attendance — INFO — <MagicMock name='post().text' id='2988875056'>
+2020-11-24 20:53:01,620 — Attendance — INFO — Sucess
+2020-11-24 20:53:01,713 — API — INFO — Activate RFID API triggered
+2020-11-24 20:53:01,730 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:53:01,735 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:53:01,736 — API — INFO — [0]
+2020-11-24 20:53:01,736 — API — INFO — [0]
+2020-11-24 20:53:01,743 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:53:01,746 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:53:01,763 — API — ERROR — Employee Id not found
+2020-11-24 20:53:01,782 — API — ERROR — Employee Id not found
+2020-11-24 20:53:01,785 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 20:53:01,789 — API — INFO — Update RFID
+2020-11-24 20:53:01,795 — API — INFO — Update RFID
+2020-11-24 20:53:01,796 — API — ERROR — Employee Id not found
+2020-11-24 20:53:01,801 — API — INFO — Update RFID
+2020-11-24 20:53:01,806 — API — INFO — Update RFID
+2020-11-24 20:53:01,806 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 20:54:54,586 — RFID Access — INFO — 123456
+2020-11-24 20:54:54,589 — RFID Access — INFO — 0
+2020-11-24 20:54:54,590 — RFID Access — INFO — 0
+2020-11-24 20:54:54,590 — RFID Access — INFO — 0
+2020-11-24 20:54:54,590 — RFID Access — INFO — Your Access is revoked
+2020-11-24 20:54:55,406 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 20:54:55,407 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 20:54:55,409 — Attendance — INFO — <MagicMock name='post().text' id='2987359376'>
+2020-11-24 20:54:55,412 — Attendance — INFO — Sucess
+2020-11-24 20:54:55,486 — API — INFO — Activate RFID API triggered
+2020-11-24 20:54:55,500 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:54:55,507 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:54:55,508 — API — INFO — [0]
+2020-11-24 20:54:55,508 — API — INFO — [0]
+2020-11-24 20:54:55,514 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:54:55,517 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:54:55,539 — API — ERROR — Employee Id not found
+2020-11-24 20:54:55,559 — API — ERROR — Employee Id not found
+2020-11-24 20:54:55,563 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 20:54:55,570 — API — INFO — Update RFID
+2020-11-24 20:54:55,577 — API — INFO — Update RFID
+2020-11-24 20:54:55,578 — API — ERROR — Employee Id not found
+2020-11-24 20:54:55,582 — API — INFO — Update RFID
+2020-11-24 20:54:55,586 — API — INFO — Update RFID
+2020-11-24 20:54:55,587 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 20:55:49,210 — RFID Access — INFO — 123456
+2020-11-24 20:55:49,213 — RFID Access — INFO — 1
+2020-11-24 20:55:49,214 — RFID Access — INFO — 1
+2020-11-24 20:55:49,214 — RFID Access — INFO — 1
+2020-11-24 20:55:49,214 — RFID Access — INFO — Your Access is revoked
+2020-11-24 20:55:50,033 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 20:55:50,034 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 20:55:50,037 — Attendance — INFO — <MagicMock name='post().text' id='2987359312'>
+2020-11-24 20:55:50,040 — Attendance — INFO — Sucess
+2020-11-24 20:55:50,133 — API — INFO — Activate RFID API triggered
+2020-11-24 20:55:50,145 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:55:50,150 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:55:50,151 — API — INFO — [0]
+2020-11-24 20:55:50,151 — API — INFO — [0]
+2020-11-24 20:55:50,156 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:55:50,159 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:55:50,173 — API — ERROR — Employee Id not found
+2020-11-24 20:55:50,189 — API — ERROR — Employee Id not found
+2020-11-24 20:55:50,192 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 20:55:50,195 — API — INFO — Update RFID
+2020-11-24 20:55:50,201 — API — INFO — Update RFID
+2020-11-24 20:55:50,201 — API — ERROR — Employee Id not found
+2020-11-24 20:55:50,205 — API — INFO — Update RFID
+2020-11-24 20:55:50,209 — API — INFO — Update RFID
+2020-11-24 20:55:50,209 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 20:57:48,828 — RFID Access — INFO — 123456
+2020-11-24 20:57:48,831 — RFID Access — INFO — Employeeid
+2020-11-24 20:57:48,831 — RFID Access — INFO — 1
+2020-11-24 20:57:48,831 — RFID Access — INFO — Status_Employee
+2020-11-24 20:57:48,831 — RFID Access — INFO — 1
+2020-11-24 20:57:48,832 — RFID Access — INFO — 1
+2020-11-24 20:57:48,832 — RFID Access — INFO — Your Access is revoked
+2020-11-24 20:57:49,647 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 20:57:49,647 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 20:57:49,649 — Attendance — INFO — <MagicMock name='post().text' id='2987359344'>
+2020-11-24 20:57:49,652 — Attendance — INFO — Sucess
+2020-11-24 20:57:49,717 — API — INFO — Activate RFID API triggered
+2020-11-24 20:57:49,727 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:57:49,731 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:57:49,732 — API — INFO — [0]
+2020-11-24 20:57:49,732 — API — INFO — [0]
+2020-11-24 20:57:49,738 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:57:49,743 — API — INFO — RFID synchronized API triggered
+2020-11-24 20:57:49,757 — API — ERROR — Employee Id not found
+2020-11-24 20:57:49,772 — API — ERROR — Employee Id not found
+2020-11-24 20:57:49,776 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 20:57:49,781 — API — INFO — Update RFID
+2020-11-24 20:57:49,787 — API — INFO — Update RFID
+2020-11-24 20:57:49,788 — API — ERROR — Employee Id not found
+2020-11-24 20:57:49,792 — API — INFO — Update RFID
+2020-11-24 20:57:49,795 — API — INFO — Update RFID
+2020-11-24 20:57:49,795 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:02:42,616 — RFID Access — INFO — 123456
+2020-11-24 21:02:42,619 — RFID Access — ERROR — 'int' object is not subscriptable
+Traceback (most recent call last):
+  File "/home/pi/Desktop/unit_test/FDP/Firmware/RFID_Access.py", line 76, in RFID_Card_Validation
+    Employeeid = Empid[0]
+TypeError: 'int' object is not subscriptable
+2020-11-24 21:02:42,623 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 21:02:42,624 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 21:02:42,625 — Attendance — INFO — <MagicMock name='post().text' id='2997220944'>
+2020-11-24 21:02:42,627 — Attendance — INFO — Sucess
+2020-11-24 21:02:42,681 — API — INFO — Activate RFID API triggered
+2020-11-24 21:02:42,691 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:02:42,695 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:02:42,695 — API — INFO — [0]
+2020-11-24 21:02:42,696 — API — INFO — [0]
+2020-11-24 21:02:42,700 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:02:42,703 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:02:42,718 — API — ERROR — Employee Id not found
+2020-11-24 21:02:42,732 — API — ERROR — Employee Id not found
+2020-11-24 21:02:42,735 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:02:42,738 — API — INFO — Update RFID
+2020-11-24 21:02:42,744 — API — INFO — Update RFID
+2020-11-24 21:02:42,744 — API — ERROR — Employee Id not found
+2020-11-24 21:02:42,749 — API — INFO — Update RFID
+2020-11-24 21:02:42,752 — API — INFO — Update RFID
+2020-11-24 21:02:42,753 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:03:29,266 — RFID Access — INFO — 123456
+2020-11-24 21:03:29,269 — RFID Access — INFO — Employeeid
+2020-11-24 21:03:29,269 — RFID Access — INFO — 1
+2020-11-24 21:03:29,270 — RFID Access — INFO — Status_Employee
+2020-11-24 21:03:29,270 — RFID Access — INFO — 1
+2020-11-24 21:03:29,270 — RFID Access — INFO — 1
+2020-11-24 21:03:29,270 — RFID Access — INFO — Your Access is revoked
+2020-11-24 21:03:30,089 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 21:03:30,090 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 21:03:30,093 — Attendance — INFO — <MagicMock name='post().text' id='2989096016'>
+2020-11-24 21:03:30,097 — Attendance — INFO — Sucess
+2020-11-24 21:03:30,170 — API — INFO — Activate RFID API triggered
+2020-11-24 21:03:30,186 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:03:30,192 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:03:30,193 — API — INFO — [0]
+2020-11-24 21:03:30,193 — API — INFO — [0]
+2020-11-24 21:03:30,200 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:03:30,204 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:03:30,223 — API — ERROR — Employee Id not found
+2020-11-24 21:03:30,237 — API — ERROR — Employee Id not found
+2020-11-24 21:03:30,241 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:03:30,247 — API — INFO — Update RFID
+2020-11-24 21:03:30,252 — API — INFO — Update RFID
+2020-11-24 21:03:30,253 — API — ERROR — Employee Id not found
+2020-11-24 21:03:30,257 — API — INFO — Update RFID
+2020-11-24 21:03:30,261 — API — INFO — Update RFID
+2020-11-24 21:03:30,262 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:04:12,001 — RFID Access — INFO — 123456
+2020-11-24 21:04:12,003 — RFID Access — INFO — Employeeid
+2020-11-24 21:04:12,004 — RFID Access — INFO — 1
+2020-11-24 21:04:12,004 — RFID Access — INFO — Status_Employee
+2020-11-24 21:04:12,004 — RFID Access — INFO — 1
+2020-11-24 21:04:12,004 — RFID Access — INFO — 1
+2020-11-24 21:04:12,085 — RFID Access — INFO — 2020-11-24 21:04:12.085658+05:30
+2020-11-24 21:04:12,086 — Relay — INFO — Relay triggered for door opening
+2020-11-24 21:04:13,909 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 21:04:13,915 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 21:04:13,918 — Attendance — INFO — <MagicMock name='post().text' id='2988857968'>
+2020-11-24 21:04:13,921 — Attendance — INFO — Sucess
+2020-11-24 21:04:13,996 — API — INFO — Activate RFID API triggered
+2020-11-24 21:04:14,008 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:04:14,013 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:04:14,013 — API — INFO — [0]
+2020-11-24 21:04:14,014 — API — INFO — [0]
+2020-11-24 21:04:14,021 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:04:14,024 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:04:14,037 — API — ERROR — Employee Id not found
+2020-11-24 21:04:14,053 — API — ERROR — Employee Id not found
+2020-11-24 21:04:14,056 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:04:14,061 — API — INFO — Update RFID
+2020-11-24 21:04:14,068 — API — INFO — Update RFID
+2020-11-24 21:04:14,069 — API — ERROR — Employee Id not found
+2020-11-24 21:04:14,073 — API — INFO — Update RFID
+2020-11-24 21:04:14,076 — API — INFO — Update RFID
+2020-11-24 21:04:14,076 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:04:17,087 — Relay — INFO — Door closed 
+2020-11-24 21:05:17,606 — RFID Access — INFO — 123456
+2020-11-24 21:05:17,613 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 21:05:17,613 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 21:05:17,614 — Attendance — INFO — <MagicMock name='post().text' id='2989297776'>
+2020-11-24 21:05:17,616 — Attendance — INFO — Sucess
+2020-11-24 21:05:17,665 — API — INFO — Activate RFID API triggered
+2020-11-24 21:05:17,677 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:05:17,681 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:05:17,682 — API — INFO — [0]
+2020-11-24 21:05:17,682 — API — INFO — [0]
+2020-11-24 21:05:17,687 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:05:17,690 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:05:17,707 — API — ERROR — Employee Id not found
+2020-11-24 21:05:17,721 — API — ERROR — Employee Id not found
+2020-11-24 21:05:17,724 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:05:17,728 — API — INFO — Update RFID
+2020-11-24 21:05:17,734 — API — INFO — Update RFID
+2020-11-24 21:05:17,735 — API — ERROR — Employee Id not found
+2020-11-24 21:05:17,739 — API — INFO — Update RFID
+2020-11-24 21:05:17,741 — API — INFO — Update RFID
+2020-11-24 21:05:17,742 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:05:51,417 — RFID Access — INFO — 123456
+2020-11-24 21:05:51,421 — RFID Access — INFO — Employeeid
+2020-11-24 21:05:51,421 — RFID Access — INFO — 1
+2020-11-24 21:05:51,421 — RFID Access — INFO — Status_Employee
+2020-11-24 21:05:51,422 — RFID Access — INFO — 1
+2020-11-24 21:05:51,422 — RFID Access — INFO — 1
+2020-11-24 21:05:51,469 — RFID Access — INFO — 2020-11-24 21:05:51.469591+05:30
+2020-11-24 21:05:53,293 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 21:05:53,294 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 21:05:53,299 — Attendance — INFO — <MagicMock name='post().text' id='2988667664'>
+2020-11-24 21:05:53,301 — Attendance — INFO — Sucess
+2020-11-24 21:05:53,356 — API — INFO — Activate RFID API triggered
+2020-11-24 21:05:53,367 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:05:53,371 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:05:53,372 — API — INFO — [0]
+2020-11-24 21:05:53,372 — API — INFO — [0]
+2020-11-24 21:05:53,378 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:05:53,381 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:05:53,397 — API — ERROR — Employee Id not found
+2020-11-24 21:05:53,411 — API — ERROR — Employee Id not found
+2020-11-24 21:05:53,416 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:05:53,420 — API — INFO — Update RFID
+2020-11-24 21:05:53,427 — API — INFO — Update RFID
+2020-11-24 21:05:53,429 — API — ERROR — Employee Id not found
+2020-11-24 21:05:53,433 — API — INFO — Update RFID
+2020-11-24 21:05:53,436 — API — INFO — Update RFID
+2020-11-24 21:05:53,437 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:07:13,670 — RFID Access — INFO — 123456
+2020-11-24 21:07:13,673 — RFID Access — INFO — Employeeid
+2020-11-24 21:07:13,675 — RFID Access — INFO — 1
+2020-11-24 21:07:13,675 — RFID Access — INFO — Status_Employee
+2020-11-24 21:07:13,676 — RFID Access — INFO — 1
+2020-11-24 21:07:13,676 — RFID Access — INFO — 1
+2020-11-24 21:07:13,723 — RFID Access — INFO — 2020-11-24 21:07:13.723683+05:30
+2020-11-24 21:07:14,752 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 21:07:14,754 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 21:07:14,756 — Attendance — INFO — <MagicMock name='post().text' id='2986899152'>
+2020-11-24 21:07:14,759 — Attendance — INFO — Sucess
+2020-11-24 21:07:14,838 — API — INFO — Activate RFID API triggered
+2020-11-24 21:07:14,855 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:07:14,861 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:07:14,862 — API — INFO — [0]
+2020-11-24 21:07:14,862 — API — INFO — [0]
+2020-11-24 21:07:14,871 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:07:14,876 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:07:14,893 — API — ERROR — Employee Id not found
+2020-11-24 21:07:14,911 — API — ERROR — Employee Id not found
+2020-11-24 21:07:14,914 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:07:14,919 — API — INFO — Update RFID
+2020-11-24 21:07:14,924 — API — INFO — Update RFID
+2020-11-24 21:07:14,925 — API — ERROR — Employee Id not found
+2020-11-24 21:07:14,929 — API — INFO — Update RFID
+2020-11-24 21:07:14,932 — API — INFO — Update RFID
+2020-11-24 21:07:14,933 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:09:36,469 — RFID Access — INFO — 123456
+2020-11-24 21:09:36,473 — RFID Access — INFO — Employeeid
+2020-11-24 21:09:36,473 — RFID Access — INFO — 1
+2020-11-24 21:09:36,473 — RFID Access — INFO — Status_Employee
+2020-11-24 21:09:36,474 — RFID Access — INFO — 1
+2020-11-24 21:09:36,474 — RFID Access — INFO — 1
+2020-11-24 21:09:36,521 — RFID Access — INFO — 2020-11-24 21:09:36.521544+05:30
+2020-11-24 21:09:37,545 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 21:09:37,546 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 21:09:37,549 — Attendance — INFO — <MagicMock name='post().text' id='2987273232'>
+2020-11-24 21:09:37,553 — Attendance — INFO — Sucess
+2020-11-24 21:09:37,640 — API — INFO — Activate RFID API triggered
+2020-11-24 21:09:37,659 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:09:37,668 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:09:37,669 — API — INFO — [0]
+2020-11-24 21:09:37,670 — API — INFO — [0]
+2020-11-24 21:09:37,677 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:09:37,681 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:09:37,694 — API — ERROR — Employee Id not found
+2020-11-24 21:09:37,710 — API — ERROR — Employee Id not found
+2020-11-24 21:09:37,713 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:09:37,718 — API — INFO — Update RFID
+2020-11-24 21:09:37,725 — API — INFO — Update RFID
+2020-11-24 21:09:37,726 — API — ERROR — Employee Id not found
+2020-11-24 21:09:37,731 — API — INFO — Update RFID
+2020-11-24 21:09:37,735 — API — INFO — Update RFID
+2020-11-24 21:09:37,736 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:12:37,405 — RFID Access — INFO — 123456
+2020-11-24 21:12:37,409 — RFID Access — INFO — Employeeid
+2020-11-24 21:12:37,409 — RFID Access — INFO — 0
+2020-11-24 21:12:37,409 — RFID Access — INFO — Status_Employee
+2020-11-24 21:12:37,410 — RFID Access — INFO — 0
+2020-11-24 21:12:37,410 — RFID Access — INFO — 0
+2020-11-24 21:12:37,410 — RFID Access — INFO — Your Access is revoked
+2020-11-24 21:12:37,468 — RFID Access — INFO — 2020-11-24 21:12:37.468738+05:30
+2020-11-24 21:12:38,491 — RFID Access — INFO — Employeeid
+2020-11-24 21:12:38,492 — RFID Access — INFO — 1
+2020-11-24 21:12:38,493 — RFID Access — INFO — Status_Employee
+2020-11-24 21:12:38,494 — RFID Access — INFO — 1
+2020-11-24 21:12:38,494 — RFID Access — INFO — 1
+2020-11-24 21:12:38,495 — RFID Access — INFO — 2020-11-24 21:12:38.495057+05:30
+2020-11-24 21:12:39,532 — Attendance — INFO — Attendance synchronization API triggered
+2020-11-24 21:12:39,533 — Attendance — INFO — {'DeviceCode': 'FDP7424:8080', 'EmployeeId': '1323', 'PunchTime': '4536', 'PunchType': '1', 'AttendanceStatus': 'True'}
+2020-11-24 21:12:39,539 — Attendance — INFO — <MagicMock name='post().text' id='2987152816'>
+2020-11-24 21:12:39,540 — Attendance — INFO — Sucess
+2020-11-24 21:12:39,589 — API — INFO — Activate RFID API triggered
+2020-11-24 21:12:39,600 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:12:39,605 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:12:39,605 — API — INFO — [0]
+2020-11-24 21:12:39,605 — API — INFO — [0]
+2020-11-24 21:12:39,610 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:12:39,614 — API — INFO — RFID synchronized API triggered
+2020-11-24 21:12:39,629 — API — ERROR — Employee Id not found
+2020-11-24 21:12:39,646 — API — ERROR — Employee Id not found
+2020-11-24 21:12:39,649 — API — ERROR — argument of type 'NoneType' is not iterable
+2020-11-24 21:12:39,654 — API — INFO — Update RFID
+2020-11-24 21:12:39,661 — API — INFO — Update RFID
+2020-11-24 21:12:39,662 — API — ERROR — Employee Id not found
+2020-11-24 21:12:39,666 — API — INFO — Update RFID
+2020-11-24 21:12:39,669 — API — INFO — Update RFID
+2020-11-24 21:12:39,669 — API — ERROR — argument of type 'NoneType' is not iterable

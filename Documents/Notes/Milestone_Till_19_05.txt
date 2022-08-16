@@ -1,0 +1,56 @@
+Device Information
+    Device Used:    Raspberry Pi, fingerprint, rfid
+    Stack:  Python
+    Database: Sqlite
+    Libraries: paho.mqtt
+
+
+
+Server Information
+    Stack:  Python Django
+    Algorithm:  face-recognition 1.3.0
+    Backend Database: PostgreSQL
+
+Issues:
+    Face detection is not working properly.
+    People having less than 5 feet height is not working properly.
+    Group speech is not working properly.
+    Face liveness is not working properly.
+    People having specs is not working properly.
+    Dataset issue.
+    Freeflow is not working properly for everyone.
+    Person sitting in first row in the development room is detected when the free flow is implemented.
+    Face get detected from the cafteria door.
+
+Pending tasks to implement
+    Mytime integration on live environment.
+    Antipassback on live environment.
+    Ota update.
+    Multiple Camera using Cuda.
+
+Resources involved
+    PM's
+        Jose
+        Sijoy
+        Nipun
+    Device:
+        Aji
+        Aneesh
+        Ramesh
+        Kiran
+    Server
+        Aji
+        Monika
+        Aneesh
+        Aswathy
+        Ramesh
+    Mobile
+        Nithin
+        Nanditha
+        Gopika
+    Qa
+        Eldhose
+        Geo Mariyan
+
+Starting Date
+    August 2020
